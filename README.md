@@ -13,9 +13,13 @@ Sorry about the name, I just watched The Emporers New Groove.
 Here are the github links to scripts used by this program:
 
 [SDRTrunk](https://github.com/DSheirer/sdrtrunk)
+
 [Dump1090](https://github.com/antirez/dump1090)
+
 [Multimon-ng](https://github.com/EliasOenal/multimon-ng)
+
 [Highlight](https://github.com/kepkin/dev-shell-essentials)
+
 [rtl_433](https://github.com/merbanan/rtl_433)
 
 
@@ -23,6 +27,26 @@ Get a sdr: [15$ RTL-SDR](https://www.ebay.com/itm/394289111217?hash=item5bcd7660
 
 # Install instructions
 
-clone this repo:
+Clone this repo:
+
+```git clone https://github.com/hebeme/All-Seeing-Lama.git```
+
+Enter in to it:
+
+```cd app```
+
+make *.sh files executable with:
+
+```chmod +x *.sh```
+
+then run:
+
+```./install.sh```
+
+to run the script do:
+
+```./app```
+
+
   
 
