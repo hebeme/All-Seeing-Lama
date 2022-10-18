@@ -1,0 +1,4586 @@
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-07 17:12:30
+model     : Jansite
+type      : TPMS
+id        : 1096b3d
+flags     : 13
+Pressure  : 314 kPa
+Temperature: 81 C
+code      : 1096b3ddb9838d
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -7.9 dB
+SNR       : 7.7 dB
+Noise     : -15.6 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-07 17:38:35
+model     : Renault
+type      : TPMS
+id        : 7c52a4
+flags     : 34
+pressure_kPa: 254.2 kPa
+temperature_C: 37 C
+Integrity : CRC
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -4.5 dB
+SNR       : 9.5 dB
+Noise     : -13.9 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-07 17:38:35
+model     : Jansite
+type      : TPMS
+id        : d15343a
+flags     : 4
+Pressure  : 139 kPa
+Temperature: 74 C
+code      : d15343a4527c0c
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -4.5 dB
+SNR       : 9.5 dB
+Noise     : -13.9 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-07 17:38:35
+model     : Renault
+type      : TPMS
+id        : a9533f
+flags     : 34
+pressure_kPa: 255.8 kPa
+temperature_C: 41 C
+Integrity : CRC
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -0.5 dB
+SNR       : 14.3 dB
+Noise     : -14.8 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-07 17:38:35
+model     : Jansite
+type      : TPMS
+id        : d155473
+flags     : 15
+Pressure  : 141 kPa
+Temperature: 119 C
+code      : d155473f53a909
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -0.5 dB
+SNR       : 14.3 dB
+Noise     : -14.8 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-07 17:38:36
+model     : Renault
+type      : TPMS
+id        : a9533f
+flags     : 34
+pressure_kPa: 255.8 kPa
+temperature_C: 41 C
+Integrity : CRC
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -0.1 dB
+SNR       : 14.7 dB
+Noise     : -14.8 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-07 17:38:36
+model     : Jansite
+type      : TPMS
+id        : d155473
+flags     : 15
+Pressure  : 141 kPa
+Temperature: 119 C
+code      : d155473f53a949
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -0.1 dB
+SNR       : 14.7 dB
+Noise     : -14.8 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-07 17:42:28
+model     : Schrader
+type      : TPMS
+flags     : 26
+ID        : 0759607
+Pressure  : 240.0 kPa
+Temperature: 45 C
+Integrity : CRC
+Modulation: ASK
+Freq      : 433.9 MHz
+RSSI      : -6.5 dB
+SNR       : 8.4 dB
+Noise     : -14.8 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-07 18:05:50
+model     : Jansite
+type      : TPMS
+id        : dcc3c54
+flags     : 11
+Pressure  : 345 kPa
+Temperature: 144 C
+code      : dcc3c54bcbc260
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -5.6 dB
+SNR       : 8.5 dB
+Noise     : -14.1 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-07 18:05:50
+model     : Citroen
+type      : TPMS
+id        : c3c54bcb
+state     : dc
+flags     : 12
+repeat    : 3
+Pressure  : 131 kPa
+Temperature: 53 C
+maybe_battery: 12
+Integrity : CHECKSUM
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -2.7 dB
+SNR       : 12.5 dB
+Noise     : -15.2 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-07 18:05:50
+model     : Jansite
+type      : TPMS
+id        : dcc3c54
+flags     : 11
+Pressure  : 345 kPa
+Temperature: 145 C
+code      : dcc3c54bcbc360
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -2.7 dB
+SNR       : 12.5 dB
+Noise     : -15.2 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-07 18:30:43
+model     : Jansite
+type      : TPMS
+id        : 321174b
+flags     : 11
+Pressure  : 112 kPa
+Temperature: -42 C
+code      : 321174bb4208a5
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -5.3 dB
+SNR       : 8.8 dB
+Noise     : -14.1 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-07 04:37:06
+model     : Jansite
+type      : TPMS
+id        : b94f559
+flags     : 12
+Pressure  : 63 kPa
+Temperature: 108 C
+code      : b94f559c259e4e
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -6.3 dB
+SNR       : 9.9 dB
+Noise     : -16.2 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-07 04:50:36
+model     : Jansite
+type      : TPMS
+id        : 20d343c
+flags     : 5
+Pressure  : 265 kPa
+Temperature: -41 C
+code      : 20d343c59c099f
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -6.2 dB
+SNR       : 11.0 dB
+Noise     : -17.3 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-07 04:50:36
+model     : Hyundai-VDO
+type      : TPMS
+id        : d343c59c
+state     : 32
+flags     : 0
+repetition: 9
+pressure  : 219 kPa
+temp      : 22 C
+maybe_battery: 14
+Integrity : CRC
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -6.2 dB
+SNR       : 11.0 dB
+Noise     : -17.3 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-07 04:50:36
+model     : Jansite
+type      : TPMS
+id        : 20d343c
+flags     : 5
+Pressure  : 265 kPa
+Temperature: -39 C
+code      : 20d343c59c0b9f
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -0.9 dB
+SNR       : 15.7 dB
+Noise     : -16.6 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-07 04:50:36
+model     : Hyundai-VDO
+type      : TPMS
+id        : d343c59c
+state     : 32
+flags     : 0
+repetition: 11
+pressure  : 219 kPa
+temp      : 22 C
+maybe_battery: 14
+Integrity : CRC
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -0.9 dB
+SNR       : 15.7 dB
+Noise     : -16.6 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-07 04:50:37
+model     : Jansite
+type      : TPMS
+id        : 20d343c
+flags     : 5
+Pressure  : 265 kPa
+Temperature: -42 C
+code      : 20d343c59c089f
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -6.1 dB
+SNR       : 10.4 dB
+Noise     : -16.6 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-07 04:50:37
+model     : Hyundai-VDO
+type      : TPMS
+id        : d343c59c
+state     : 32
+flags     : 0
+repetition: 8
+pressure  : 219 kPa
+temp      : 22 C
+maybe_battery: 14
+Integrity : CRC
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -6.1 dB
+SNR       : 10.4 dB
+Noise     : -16.6 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-07 06:34:01
+model     : Citroen
+type      : TPMS
+id        : 96d3acdf
+state     : 1c
+flags     : 8
+repeat    : 0
+Pressure  : 180 kPa
+Temperature: 21 C
+maybe_battery: 1
+Integrity : CHECKSUM
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -9.6 dB
+SNR       : 7.2 dB
+Noise     : -16.8 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-07 06:34:01
+model     : Jansite
+type      : TPMS
+id        : 1c96d3a
+flags     : 12
+Pressure  : 379 kPa
+Temperature: 78 C
+code      : 1c96d3acdf8084
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -9.6 dB
+SNR       : 7.2 dB
+Noise     : -16.8 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-07 06:40:06
+model     : Renault
+type      : TPMS
+id        : 8677c2
+flags     : 36
+pressure_kPa: 210.8 kPa
+temperature_C: 22 C
+Integrity : CRC
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -1.0 dB
+SNR       : 16.3 dB
+Noise     : -17.3 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-07 06:40:06
+model     : Jansite
+type      : TPMS
+id        : d91934c
+flags     : 2
+Pressure  : 202 kPa
+Temperature: 84 C
+code      : d91934c2778610
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -1.0 dB
+SNR       : 16.3 dB
+Noise     : -17.3 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-07 06:40:06
+model     : Renault
+type      : TPMS
+id        : 8678fa
+flags     : 36
+pressure_kPa: 201.0 kPa
+temperature_C: 22 C
+Integrity : CRC
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -4.9 dB
+SNR       : 12.6 dB
+Noise     : -17.5 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-07 06:40:06
+model     : Jansite
+type      : TPMS
+id        : d90c34f
+flags     : 10
+Pressure  : 204 kPa
+Temperature: 84 C
+code      : d90c34fa788610
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -4.9 dB
+SNR       : 12.6 dB
+Noise     : -17.5 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-07 06:50:26
+model     : Jansite
+type      : TPMS
+id        : 8026a51
+flags     : 13
+Pressure  : 107 kPa
+Temperature: -2 C
+code      : 8026a51d3f304f
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -6.9 dB
+SNR       : 9.9 dB
+Noise     : -16.8 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-07 06:50:26
+model     : Abarth 124 Spider
+type      : TPMS
+id        : 8026a51d
+flags     : 3f
+Pressure  : 66 kPa
+Temperature: 29 C
+status    : 28
+Integrity : CHECKSUM
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -6.9 dB
+SNR       : 9.9 dB
+Noise     : -16.8 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-07 07:04:30
+model     : Jansite
+type      : TPMS
+id        : b94dad5
+flags     : 5
+Pressure  : 212 kPa
+Temperature: 80 C
+code      : b94dad557d8247
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -0.1 dB
+SNR       : 18.0 dB
+Noise     : -18.1 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-07 07:04:30
+model     : Jansite
+type      : TPMS
+id        : b94dad5
+flags     : 5
+Pressure  : 212 kPa
+Temperature: 80 C
+code      : b94dad557d8247
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -7.2 dB
+SNR       : 10.9 dB
+Noise     : -18.1 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-07 07:14:14
+model     : Renault
+type      : TPMS
+id        : 58e7ca
+flags     : 36
+pressure_kPa: 199.5 kPa
+temperature_C: 21 C
+Integrity : CRC
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -5.0 dB
+SNR       : 13.2 dB
+Noise     : -18.2 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-07 07:14:14
+model     : Jansite
+type      : TPMS
+id        : d90a33c
+flags     : 10
+Pressure  : 393 kPa
+Temperature: 38 C
+code      : d90a33cae75850
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -5.0 dB
+SNR       : 13.2 dB
+Noise     : -18.2 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-07 07:16:39
+model     : Citroen
+type      : TPMS
+id        : d17c0956
+state     : 10
+flags     : 12
+repeat    : 2
+Pressure  : 235 kPa
+Temperature: 32 C
+maybe_battery: 20
+Integrity : CHECKSUM
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -8.2 dB
+SNR       : 7.8 dB
+Noise     : -16.1 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-07 07:16:39
+model     : Jansite
+type      : TPMS
+id        : 10d17c0
+flags     : 9
+Pressure  : 146 kPa
+Temperature: 144 C
+code      : 10d17c0956c2ac
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -8.2 dB
+SNR       : 7.8 dB
+Noise     : -16.1 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-07 07:16:39
+model     : Citroen
+type      : TPMS
+id        : d17c0956
+state     : 10
+flags     : 12
+repeat    : 3
+Pressure  : 235 kPa
+Temperature: 32 C
+maybe_battery: 20
+Integrity : CHECKSUM
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -7.6 dB
+SNR       : 10.0 dB
+Noise     : -17.6 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-07 07:16:39
+model     : Jansite
+type      : TPMS
+id        : 10d17c0
+flags     : 9
+Pressure  : 146 kPa
+Temperature: 145 C
+code      : 10d17c0956c3ac
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -7.6 dB
+SNR       : 10.0 dB
+Noise     : -17.6 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-07 08:08:05
+model     : Renault
+type      : TPMS
+id        : a9546f
+flags     : 36
+pressure_kPa: 182.2 kPa
+temperature_C: 22 C
+Integrity : CRC
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -0.3 dB
+SNR       : 17.8 dB
+Noise     : -18.1 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-07 08:08:05
+model     : Jansite
+type      : TPMS
+id        : d8f3346
+flags     : 15
+Pressure  : 143 kPa
+Temperature: 119 C
+code      : d8f3346f54a909
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -0.3 dB
+SNR       : 17.8 dB
+Noise     : -18.1 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-07 08:08:05
+model     : Renault
+type      : TPMS
+id        : a9546f
+flags     : 36
+pressure_kPa: 182.2 kPa
+temperature_C: 22 C
+Integrity : CRC
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -1.7 dB
+SNR       : 16.2 dB
+Noise     : -18.0 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-07 08:08:05
+model     : Jansite
+type      : TPMS
+id        : d8f3346
+flags     : 15
+Pressure  : 143 kPa
+Temperature: 119 C
+code      : d8f3346f54a949
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -1.7 dB
+SNR       : 16.2 dB
+Noise     : -18.0 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-07 08:22:18
+model     : Renault
+type      : TPMS
+id        : a9533f
+flags     : 36
+pressure_kPa: 237.0 kPa
+temperature_C: 27 C
+Integrity : CRC
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -8.9 dB
+SNR       : 8.9 dB
+Noise     : -17.9 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-07 08:22:18
+model     : Jansite
+type      : TPMS
+id        : d93c393
+flags     : 15
+Pressure  : 141 kPa
+Temperature: 119 C
+code      : d93c393f53a949
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -8.9 dB
+SNR       : 8.9 dB
+Noise     : -17.9 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-07 10:16:09
+model     : Citroen
+type      : TPMS
+id        : d17c0956
+state     : 13
+flags     : 0
+repeat    : 2
+Pressure  : 236 kPa
+Temperature: 37 C
+maybe_battery: 17
+Integrity : CHECKSUM
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -1.5 dB
+SNR       : 12.0 dB
+Noise     : -13.5 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-07 10:16:09
+model     : Jansite
+type      : TPMS
+id        : 13d17c0
+flags     : 9
+Pressure  : 146 kPa
+Temperature: -48 C
+code      : 13d17c095602ad
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -1.5 dB
+SNR       : 12.0 dB
+Noise     : -13.5 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-07 10:19:09
+model     : Jansite
+type      : TPMS
+id        : 1096b3d
+flags     : 13
+Pressure  : 314 kPa
+Temperature: 111 C
+code      : 1096b3ddb9a189
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -5.6 dB
+SNR       : 8.1 dB
+Noise     : -13.7 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-07 10:19:09
+model     : Jansite
+type      : TPMS
+id        : 1096b3d
+flags     : 13
+Pressure  : 314 kPa
+Temperature: 112 C
+code      : 1096b3ddb9a289
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -5.6 dB
+SNR       : 9.2 dB
+Noise     : -14.8 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-07 10:19:12
+model     : Jansite
+type      : TPMS
+id        : b93e950
+flags     : 11
+Pressure  : 308 kPa
+Temperature: 70 C
+code      : b93e950bb5785c
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -0.1 dB
+SNR       : 13.3 dB
+Noise     : -13.4 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-07 10:19:25
+model     : Citroen
+type      : TPMS
+id        : 96b3ddb9
+state     : 10
+flags     : 10
+repeat    : 3
+Pressure  : 187 kPa
+Temperature: 30 C
+maybe_battery: 1
+Integrity : CHECKSUM
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -5.6 dB
+SNR       : 9.4 dB
+Noise     : -15.0 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-07 10:19:25
+model     : Jansite
+type      : TPMS
+id        : 1096b3d
+flags     : 13
+Pressure  : 314 kPa
+Temperature: 113 C
+code      : 1096b3ddb9a389
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -5.6 dB
+SNR       : 9.4 dB
+Noise     : -15.0 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-07 10:19:25
+model     : Jansite
+type      : TPMS
+id        : 1c96b3d
+flags     : 13
+Pressure  : 314 kPa
+Temperature: 110 C
+code      : 1c96b3ddb9a089
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -5.7 dB
+SNR       : 9.0 dB
+Noise     : -14.6 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-07 11:02:53
+model     : Jansite
+type      : TPMS
+id        : e86d474
+flags     : 3
+Pressure  : 323 kPa
+Temperature: 76 C
+code      : e86d4743be7e5a
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -2.2 dB
+SNR       : 11.5 dB
+Noise     : -13.7 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-07 11:02:53
+model     : Jansite
+type      : TPMS
+id        : e86d474
+flags     : 3
+Pressure  : 323 kPa
+Temperature: 76 C
+code      : e86d4743be7e5a
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -1.7 dB
+SNR       : 13.3 dB
+Noise     : -15.1 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-07 11:02:53
+model     : Jansite
+type      : TPMS
+id        : e86d474
+flags     : 3
+Pressure  : 323 kPa
+Temperature: 76 C
+code      : e86d4743be7e5a
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -1.4 dB
+SNR       : 13.4 dB
+Noise     : -14.9 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-07 11:02:53
+model     : Jansite
+type      : TPMS
+id        : e86d474
+flags     : 3
+Pressure  : 323 kPa
+Temperature: 76 C
+code      : e86d4743be7e5a
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -1.4 dB
+SNR       : 12.3 dB
+Noise     : -13.7 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-07 11:03:01
+model     : Jansite
+type      : TPMS
+id        : e86d444
+flags     : 2
+Pressure  : 202 kPa
+Temperature: 84 C
+code      : e86d4442778661
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -5.8 dB
+SNR       : 9.5 dB
+Noise     : -15.3 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-07 11:10:54
+model     : Jansite
+type      : TPMS
+id        : 3021b67
+flags     : 2
+Pressure  : 396 kPa
+Temperature: 143 C
+code      : 3021b672e9c1b1
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -2.5 dB
+SNR       : 11.5 dB
+Noise     : -14.0 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-07 11:10:54
+model     : Hyundai-VDO
+type      : TPMS
+id        : 21b672e9
+state     : 48
+flags     : 12
+repetition: 1
+pressure  : 243 kPa
+temp      : 40 C
+maybe_battery: 9
+Integrity : CRC
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -2.5 dB
+SNR       : 11.5 dB
+Noise     : -14.0 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-07 11:29:11
+model     : Jansite
+type      : TPMS
+id        : 3121b67
+flags     : 3
+Pressure  : 29 kPa
+Temperature: -42 C
+code      : 3121b6731108ae
+Modulation: FSK
+Freq1     : 433.9 MHz
+Freq2     : 433.9 MHz
+RSSI      : -5.3 dB
+SNR       : 10.9 dB
+Noise     : -16.2 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-07 11:29:11
+model     : Hyundai-VDO
+type      : TPMS
+id        : 21b67311
+state     : 49
+flags     : 0
+repetition: 8
+pressure  : 239 kPa
+temp      : 47 C
+maybe_battery: 19
+Integrity : CRC
+Modulation: FSK
+Freq1     : 433.9 MHz
+Freq2     : 433.9 MHz
+RSSI      : -5.3 dB
+SNR       : 10.9 dB
+Noise     : -16.2 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-07 11:40:39
+model     : Citroen
+type      : TPMS
+id        : d1837004
+state     : 13
+flags     : 0
+repeat    : 3
+Pressure  : 301 kPa
+Temperature: 30 C
+maybe_battery: 35
+Integrity : CHECKSUM
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -0.9 dB
+SNR       : 14.6 dB
+Noise     : -15.5 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-07 11:40:39
+model     : Jansite
+type      : TPMS
+id        : 13d1837
+flags     : 0
+Pressure  : 7 kPa
+Temperature: -47 C
+code      : 13d183700403dd
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -0.9 dB
+SNR       : 14.6 dB
+Noise     : -15.5 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-07 22:26:55
+model     : Jansite
+type      : TPMS
+id        : e86d472
+flags     : 13
+Pressure  : 291 kPa
+Temperature: 75 C
+code      : e86d472dab7d56
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -0.1 dB
+SNR       : 13.6 dB
+Noise     : -13.7 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-07 22:26:55
+model     : Jansite
+type      : TPMS
+id        : e86d472
+flags     : 13
+Pressure  : 291 kPa
+Temperature: 75 C
+code      : e86d472dab7d56
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -0.1 dB
+SNR       : 12.9 dB
+Noise     : -13.0 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-07 22:26:55
+model     : Jansite
+type      : TPMS
+id        : e86d472
+flags     : 13
+Pressure  : 291 kPa
+Temperature: 75 C
+code      : e86d472dab7d56
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -0.1 dB
+SNR       : 13.5 dB
+Noise     : -13.6 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-07 22:26:55
+model     : Jansite
+type      : TPMS
+id        : e86d472
+flags     : 13
+Pressure  : 291 kPa
+Temperature: 75 C
+code      : e86d472dab7d56
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -0.1 dB
+SNR       : 13.0 dB
+Noise     : -13.1 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-07 22:27:09
+model     : Jansite
+type      : TPMS
+id        : e86d3de
+flags     : 0
+Pressure  : 328 kPa
+Temperature: 75 C
+code      : e86d3de0c17d52
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -1.9 dB
+SNR       : 11.1 dB
+Noise     : -13.0 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-07 22:27:09
+model     : Ford
+type      : TPMS
+id        : e86d3de0
+Pressure  : 329.35 kPa
+Temperature: 51.7 C
+code      : c17d52
+Integrity : CHECKSUM
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -0.9 dB
+SNR       : 12.1 dB
+Noise     : -13.0 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-07 22:27:09
+model     : Jansite
+type      : TPMS
+id        : e86d3de
+flags     : 0
+Pressure  : 328 kPa
+Temperature: 75 C
+code      : e86d3de0c17d52
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -0.9 dB
+SNR       : 12.1 dB
+Noise     : -13.0 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-07 22:27:09
+model     : Jansite
+type      : TPMS
+id        : e86d3de
+flags     : 0
+Pressure  : 328 kPa
+Temperature: 75 C
+code      : e86d3de0c17d52
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -2.3 dB
+SNR       : 10.4 dB
+Noise     : -12.7 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-07 22:27:09
+model     : Jansite
+type      : TPMS
+id        : e86d3de
+flags     : 0
+Pressure  : 328 kPa
+Temperature: 75 C
+code      : e86d3de0c17d52
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -4.2 dB
+SNR       : 8.7 dB
+Noise     : -12.9 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-07 22:27:32
+model     : Jansite
+type      : TPMS
+id        : e86d444
+flags     : 2
+Pressure  : 202 kPa
+Temperature: 78 C
+code      : e86d4442778057
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -0.1 dB
+SNR       : 13.3 dB
+Noise     : -13.4 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-07 22:27:32
+model     : Jansite
+type      : TPMS
+id        : e86d444
+flags     : 2
+Pressure  : 202 kPa
+Temperature: 78 C
+code      : e86d4442778057
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -0.1 dB
+SNR       : 12.7 dB
+Noise     : -12.9 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-07 22:27:32
+model     : Jansite
+type      : TPMS
+id        : e86d444
+flags     : 2
+Pressure  : 202 kPa
+Temperature: 78 C
+code      : e86d4442778057
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -0.1 dB
+SNR       : 12.9 dB
+Noise     : -13.1 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-07 22:27:32
+model     : Jansite
+type      : TPMS
+id        : e86d444
+flags     : 2
+Pressure  : 202 kPa
+Temperature: 78 C
+code      : e86d4442778057
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -0.1 dB
+SNR       : 12.7 dB
+Noise     : -12.8 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-07 23:01:08
+model     : Jansite
+type      : TPMS
+id        : b91fc6a
+flags     : 12
+Pressure  : 102 kPa
+Temperature: 76 C
+code      : b91fc6ac3c7e53
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -0.4 dB
+SNR       : 12.6 dB
+Noise     : -13.0 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-08 00:28:13
+model     : Jansite
+type      : TPMS
+id        : e84db15
+flags     : 7
+Pressure  : 413 kPa
+Temperature: 121 C
+code      : e84db157f3ab51
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -4.1 dB
+SNR       : 10.9 dB
+Noise     : -15.0 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-08 00:28:14
+model     : Jansite
+type      : TPMS
+id        : e84db15
+flags     : 7
+Pressure  : 413 kPa
+Temperature: 121 C
+code      : e84db157f3ab51
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -4.3 dB
+SNR       : 10.8 dB
+Noise     : -15.1 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-08 00:28:14
+model     : Jansite
+type      : TPMS
+id        : e84db15
+flags     : 7
+Pressure  : 413 kPa
+Temperature: 121 C
+code      : e84db157f3ab51
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -4.0 dB
+SNR       : 11.3 dB
+Noise     : -15.3 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-08 00:28:14
+model     : Jansite
+type      : TPMS
+id        : e84db15
+flags     : 7
+Pressure  : 413 kPa
+Temperature: 121 C
+code      : e84db157f3ab51
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -4.3 dB
+SNR       : 10.3 dB
+Noise     : -14.6 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-08 00:28:25
+model     : Jansite
+type      : TPMS
+id        : e85d959
+flags     : 14
+Pressure  : 282 kPa
+Temperature: 132 C
+code      : e85d959ea6b652
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -4.6 dB
+SNR       : 10.3 dB
+Noise     : -14.9 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-08 00:28:25
+model     : Jansite
+type      : TPMS
+id        : e85d959
+flags     : 14
+Pressure  : 282 kPa
+Temperature: 132 C
+code      : e85d959ea6b652
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -4.6 dB
+SNR       : 10.5 dB
+Noise     : -15.1 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-08 00:28:25
+model     : Jansite
+type      : TPMS
+id        : e85d959
+flags     : 14
+Pressure  : 282 kPa
+Temperature: 132 C
+code      : e85d959ea6b652
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -4.4 dB
+SNR       : 10.7 dB
+Noise     : -15.1 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-08 00:28:26
+model     : Jansite
+type      : TPMS
+id        : e85d959
+flags     : 14
+Pressure  : 282 kPa
+Temperature: 132 C
+code      : e85d959ea6b652
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -4.4 dB
+SNR       : 10.3 dB
+Noise     : -14.7 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-08 00:28:29
+model     : Jansite
+type      : TPMS
+id        : e84db15
+flags     : 8
+Pressure  : 156 kPa
+Temperature: 122 C
+code      : e84db1585cac51
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -0.4 dB
+SNR       : 14.1 dB
+Noise     : -14.5 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-08 00:28:29
+model     : Jansite
+type      : TPMS
+id        : e84db15
+flags     : 8
+Pressure  : 156 kPa
+Temperature: 122 C
+code      : e84db1585cac51
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -0.4 dB
+SNR       : 14.4 dB
+Noise     : -14.8 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-08 00:28:29
+model     : Jansite
+type      : TPMS
+id        : e84db15
+flags     : 8
+Pressure  : 156 kPa
+Temperature: 122 C
+code      : e84db1585cac51
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -0.4 dB
+SNR       : 13.7 dB
+Noise     : -14.1 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-08 08:32:26
+model     : Renault
+type      : TPMS
+id        : a9546f
+flags     : 36
+pressure_kPa: 185.2 kPa
+temperature_C: 24 C
+Integrity : CRC
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -0.5 dB
+SNR       : 13.8 dB
+Noise     : -14.3 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-08 08:32:26
+model     : Jansite
+type      : TPMS
+id        : d8f7366
+flags     : 15
+Pressure  : 143 kPa
+Temperature: 119 C
+code      : d8f7366f54a919
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -0.5 dB
+SNR       : 13.8 dB
+Noise     : -14.3 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-08 08:41:47
+model     : Schrader-EG53MA4
+type      : TPMS
+flags     : 4d93a840
+ID        : 57561D
+Pressure  : 200.0 kPa
+Temperature: 28.9 C
+Integrity : CHECKSUM
+Modulation: ASK
+Freq      : 433.9 MHz
+RSSI      : -4.0 dB
+SNR       : 10.2 dB
+Noise     : -14.2 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-08 08:41:47
+model     : Schrader-EG53MA4
+type      : TPMS
+flags     : 4d937040
+ID        : 57612E
+Pressure  : 197.5 kPa
+Temperature: 28.3 C
+Integrity : CHECKSUM
+Modulation: ASK
+Freq      : 433.9 MHz
+RSSI      : -2.7 dB
+SNR       : 12.5 dB
+Noise     : -15.2 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-08 09:04:34
+model     : Schrader-EG53MA4
+type      : TPMS
+flags     : 4d030040
+ID        : 57428D
+Pressure  : 210.0 kPa
+Temperature: 32.8 C
+Integrity : CHECKSUM
+Modulation: ASK
+Freq      : 433.9 MHz
+RSSI      : -3.6 dB
+SNR       : 11.4 dB
+Noise     : -14.9 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-08 09:04:35
+model     : Schrader-EG53MA4
+type      : TPMS
+flags     : 4d030040
+ID        : 57428D
+Pressure  : 210.0 kPa
+Temperature: 32.8 C
+Integrity : CHECKSUM
+Modulation: ASK
+Freq      : 433.9 MHz
+RSSI      : -3.1 dB
+SNR       : 11.4 dB
+Noise     : -14.5 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-08 09:13:33
+model     : Schrader
+type      : TPMS
+flags     : 26
+ID        : 1CF106F
+Pressure  : 215.0 kPa
+Temperature: 31 C
+Integrity : CRC
+Modulation: ASK
+Freq      : 433.9 MHz
+RSSI      : -4.3 dB
+SNR       : 10.4 dB
+Noise     : -14.7 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-08 09:13:34
+model     : Schrader
+type      : TPMS
+flags     : 26
+ID        : 1CF106F
+Pressure  : 215.0 kPa
+Temperature: 31 C
+Integrity : CRC
+Modulation: ASK
+Freq      : 433.9 MHz
+RSSI      : -6.5 dB
+SNR       : 7.8 dB
+Noise     : -14.3 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-08 10:07:09
+model     : Renault
+type      : TPMS
+id        : 438856
+flags     : 36
+pressure_kPa: 235.5 kPa
+temperature_C: 26 C
+Integrity : CRC
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -6.9 dB
+SNR       : 13.5 dB
+Noise     : -20.4 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-08 10:07:09
+model     : Jansite
+type      : TPMS
+id        : d93a385
+flags     : 6
+Pressure  : 231 kPa
+Temperature: 17 C
+code      : d93a385688434c
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -6.9 dB
+SNR       : 13.5 dB
+Noise     : -20.4 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-08 10:10:09
+model     : Renault
+type      : TPMS
+id        : 42d453
+flags     : 36
+pressure_kPa: 224.2 kPa
+temperature_C: 34 C
+Integrity : CRC
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -2.4 dB
+SNR       : 14.1 dB
+Noise     : -16.5 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-08 10:10:09
+model     : Jansite
+type      : TPMS
+id        : d92b405
+flags     : 3
+Pressure  : 360 kPa
+Temperature: 16 C
+code      : d92b4053d4421d
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -2.4 dB
+SNR       : 14.1 dB
+Noise     : -16.5 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-08 10:10:09
+model     : Renault
+type      : TPMS
+id        : 42d453
+flags     : 36
+pressure_kPa: 224.2 kPa
+temperature_C: 34 C
+Integrity : CRC
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -2.6 dB
+SNR       : 12.4 dB
+Noise     : -15.0 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-08 10:10:09
+model     : Jansite
+type      : TPMS
+id        : d92b405
+flags     : 3
+Pressure  : 360 kPa
+Temperature: 16 C
+code      : d92b4053d4425d
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -2.6 dB
+SNR       : 12.4 dB
+Noise     : -15.0 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-09 18:21:55
+model     : Ford
+type      : TPMS
+id        : 013a4ee4
+Pressure  : 210.80 kPa
+Temperature: 27.2 C
+code      : 70511e
+Integrity : CHECKSUM
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -0.5 dB
+SNR       : 18.3 dB
+Noise     : -18.8 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-09 18:21:55
+model     : Jansite
+type      : TPMS
+id        : 013a4ee
+flags     : 4
+Pressure  : 190 kPa
+Temperature: 31 C
+code      : 013a4ee470511e
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -0.5 dB
+SNR       : 18.3 dB
+Noise     : -18.8 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-09 18:21:56
+model     : Ford
+type      : TPMS
+id        : 013a4ee4
+Pressure  : 210.80 kPa
+Temperature: 27.2 C
+code      : 70511e
+Integrity : CHECKSUM
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -0.5 dB
+SNR       : 17.4 dB
+Noise     : -17.9 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-09 18:21:56
+model     : Jansite
+type      : TPMS
+id        : 013a4ee
+flags     : 4
+Pressure  : 190 kPa
+Temperature: 31 C
+code      : 013a4ee470511e
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -0.5 dB
+SNR       : 17.4 dB
+Noise     : -17.9 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-10 19:03:09
+model     : Jansite
+type      : TPMS
+id        : 2085c5a
+flags     : 15
+Pressure  : 24 kPa
+Temperature: 144 C
+code      : 2085c5af0ec2cd
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -0.5 dB
+SNR       : 22.7 dB
+Noise     : -23.2 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-11 06:49:06
+model     : Jansite
+type      : TPMS
+id        : b039082
+flags     : 3
+Pressure  : 76 kPa
+Temperature: 26 C
+code      : b03908232d4c1a
+Modulation: FSK
+Freq1     : 433.9 MHz
+Freq2     : 433.9 MHz
+RSSI      : -0.2 dB
+SNR       : 23.5 dB
+Noise     : -23.7 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-11 06:49:06
+model     : Jansite
+type      : TPMS
+id        : b039082
+flags     : 7
+Pressure  : 76 kPa
+Temperature: 26 C
+code      : b03908272d4c1a
+Modulation: FSK
+Freq1     : 433.9 MHz
+Freq2     : 433.9 MHz
+RSSI      : -0.2 dB
+SNR       : 22.8 dB
+Noise     : -23.0 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-11 10:14:06
+model     : Jansite
+type      : TPMS
+id        : 20d343c
+flags     : 4
+Pressure  : 39 kPa
+Temperature: -39 C
+code      : 20d343c4170ba1
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -0.1 dB
+SNR       : 27.4 dB
+Noise     : -27.5 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-11 10:14:06
+model     : Hyundai-VDO
+type      : TPMS
+id        : d343c417
+state     : 32
+flags     : 0
+repetition: 11
+pressure  : 221 kPa
+temp      : 29 C
+maybe_battery: 16
+Integrity : CRC
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -0.1 dB
+SNR       : 27.4 dB
+Noise     : -27.5 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-11 10:14:06
+model     : Jansite
+type      : TPMS
+id        : 20d343c
+flags     : 4
+Pressure  : 39 kPa
+Temperature: -42 C
+code      : 20d343c41708a1
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -0.1 dB
+SNR       : 29.0 dB
+Noise     : -29.1 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-11 10:14:06
+model     : Hyundai-VDO
+type      : TPMS
+id        : d343c417
+state     : 32
+flags     : 0
+repetition: 8
+pressure  : 221 kPa
+temp      : 29 C
+maybe_battery: 16
+Integrity : CRC
+Modulation: FSK
+Freq1     : 434.0 MHz
+Freq2     : 433.9 MHz
+RSSI      : -0.1 dB
+SNR       : 29.0 dB
+Noise     : -29.1 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 14:59:54
+model     : Toyota
+type      : TPMS
+id        : d208aa6c
+status    : 128
+pressure_kPa: 182.711
+temperature_C: 41.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -10.0 dB
+SNR       : 21.0 dB
+Noise     : -31.0 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:00:20
+model     : Toyota
+type      : TPMS
+id        : d9700a49
+status    : 128
+pressure_kPa: 222.356
+temperature_C: 40.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -11.6 dB
+SNR       : 19.4 dB
+Noise     : -31.0 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:00:44
+model     : Toyota
+type      : TPMS
+id        : f86ac1e0
+status    : 131
+pressure_kPa: 236.145
+temperature_C: 38.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -12.1 dB
+SNR       : 16.6 dB
+Noise     : -28.7 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:01:30
+model     : Toyota
+type      : TPMS
+id        : d208aa6c
+status    : 128
+pressure_kPa: 182.711
+temperature_C: 41.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -11.0 dB
+SNR       : 19.6 dB
+Noise     : -30.7 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:01:55
+model     : Toyota
+type      : TPMS
+id        : d9700a49
+status    : 128
+pressure_kPa: 222.356
+temperature_C: 40.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -10.3 dB
+SNR       : 20.3 dB
+Noise     : -30.7 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:02:27
+model     : Ford
+type      : TPMS
+id        : 3741dad4
+code      : 93c246
+mic       : CHECKSUM
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -5.6 dB
+SNR       : 25.4 dB
+Noise     : -31.0 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:02:27
+model     : Jansite
+type      : TPMS
+id        : 3741dad
+flags     : 4
+Pressure  : 250 kPa
+Temperature: 144 C
+code      : 3741dad493c246
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -5.6 dB
+SNR       : 25.4 dB
+Noise     : -31.0 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:02:27
+model     : Ford
+type      : TPMS
+id        : 3741dad4
+code      : 93c246
+mic       : CHECKSUM
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -8.0 dB
+SNR       : 20.9 dB
+Noise     : -28.9 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:02:27
+model     : Jansite
+type      : TPMS
+id        : 3741dad
+flags     : 4
+Pressure  : 250 kPa
+Temperature: 144 C
+code      : 3741dad493c246
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -8.0 dB
+SNR       : 20.9 dB
+Noise     : -28.9 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:02:27
+model     : Ford
+type      : TPMS
+id        : 3741dad4
+code      : 93c246
+mic       : CHECKSUM
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -4.3 dB
+SNR       : 27.9 dB
+Noise     : -32.1 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:02:27
+model     : Jansite
+type      : TPMS
+id        : 3741dad
+flags     : 4
+Pressure  : 250 kPa
+Temperature: 144 C
+code      : 3741dad493c246
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -4.3 dB
+SNR       : 27.9 dB
+Noise     : -32.1 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:02:27
+model     : Ford
+type      : TPMS
+id        : 3741dad4
+code      : 93c246
+mic       : CHECKSUM
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -4.8 dB
+SNR       : 25.6 dB
+Noise     : -30.4 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:02:27
+model     : Jansite
+type      : TPMS
+id        : 3741dad
+flags     : 4
+Pressure  : 250 kPa
+Temperature: 144 C
+code      : 3741dad493c246
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -4.8 dB
+SNR       : 25.6 dB
+Noise     : -30.4 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:02:29
+model     : Ford
+type      : TPMS
+id        : 3741d4e1
+code      : 94c246
+mic       : CHECKSUM
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -12.1 dB
+SNR       : 17.0 dB
+Noise     : -29.1 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:02:29
+model     : Jansite
+type      : TPMS
+id        : 3741d4e
+flags     : 1
+Pressure  : 252 kPa
+Temperature: 144 C
+code      : 3741d4e194c246
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -12.1 dB
+SNR       : 17.0 dB
+Noise     : -29.1 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:02:32
+model     : Toyota
+type      : TPMS
+id        : d9701168
+status    : 128
+pressure_kPa: 215.461
+temperature_C: 37.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -12.1 dB
+SNR       : 17.4 dB
+Noise     : -29.6 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:03:06
+model     : Toyota
+type      : TPMS
+id        : d208aa6c
+status    : 128
+pressure_kPa: 182.711
+temperature_C: 41.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -11.3 dB
+SNR       : 18.6 dB
+Noise     : -29.8 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:03:30
+model     : Toyota
+type      : TPMS
+id        : d9700a49
+status    : 128
+pressure_kPa: 222.356
+temperature_C: 40.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -8.8 dB
+SNR       : 21.1 dB
+Noise     : -29.8 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:04:08
+model     : Toyota
+type      : TPMS
+id        : d9701168
+status    : 128
+pressure_kPa: 215.461
+temperature_C: 36.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -12.1 dB
+SNR       : 17.7 dB
+Noise     : -29.8 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:04:43
+model     : Toyota
+type      : TPMS
+id        : d208aa6c
+status    : 128
+pressure_kPa: 182.711
+temperature_C: 40.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -11.6 dB
+SNR       : 18.8 dB
+Noise     : -30.4 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:05:07
+model     : Toyota
+type      : TPMS
+id        : d9700a49
+status    : 128
+pressure_kPa: 224.080
+temperature_C: 40.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -8.0 dB
+SNR       : 22.7 dB
+Noise     : -30.7 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:05:13
+model     : Schrader-SMD3MA4
+type      : TPMS
+flags     : 7
+ID        : D999FC
+Pressure  : 183.75 kPa
+Modulation: ASK
+Freq      : 315.1 MHz
+RSSI      : -12.1 dB
+SNR       : 15.5 dB
+Noise     : -27.7 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:05:13
+model     : Schrader-SMD3MA4
+type      : TPMS
+flags     : 7
+ID        : D999FC
+Pressure  : 183.75 kPa
+Modulation: ASK
+Freq      : 315.1 MHz
+RSSI      : -12.1 dB
+SNR       : 15.7 dB
+Noise     : -27.8 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:05:14
+model     : Schrader-SMD3MA4
+type      : TPMS
+flags     : 7
+ID        : D999FC
+Pressure  : 183.75 kPa
+Modulation: ASK
+Freq      : 315.1 MHz
+RSSI      : -12.1 dB
+SNR       : 17.7 dB
+Noise     : -29.8 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:05:14
+model     : Schrader-SMD3MA4
+type      : TPMS
+flags     : 7
+ID        : D999FC
+Pressure  : 183.75 kPa
+Modulation: ASK
+Freq      : 315.1 MHz
+RSSI      : -12.1 dB
+SNR       : 15.7 dB
+Noise     : -27.8 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:05:14
+model     : Schrader-SMD3MA4
+type      : TPMS
+flags     : 7
+ID        : D999FC
+Pressure  : 183.75 kPa
+Modulation: ASK
+Freq      : 315.1 MHz
+RSSI      : -12.1 dB
+SNR       : 16.0 dB
+Noise     : -28.2 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:05:14
+model     : Schrader-SMD3MA4
+type      : TPMS
+flags     : 7
+ID        : D999FC
+Pressure  : 183.75 kPa
+Modulation: ASK
+Freq      : 315.1 MHz
+RSSI      : -12.1 dB
+SNR       : 15.7 dB
+Noise     : -27.8 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:06:20
+model     : Toyota
+type      : TPMS
+id        : d208aa6c
+status    : 128
+pressure_kPa: 184.435
+temperature_C: 41.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -11.0 dB
+SNR       : 19.7 dB
+Noise     : -30.7 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:06:42
+model     : Toyota
+type      : TPMS
+id        : d9700a49
+status    : 128
+pressure_kPa: 224.080
+temperature_C: 40.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -11.1 dB
+SNR       : 16.3 dB
+Noise     : -27.4 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:07:55
+model     : Toyota
+type      : TPMS
+id        : d208aa6c
+status    : 128
+pressure_kPa: 184.435
+temperature_C: 41.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -11.4 dB
+SNR       : 19.3 dB
+Noise     : -30.7 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:08:19
+model     : Toyota
+type      : TPMS
+id        : d9700a49
+status    : 128
+pressure_kPa: 224.080
+temperature_C: 40.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -11.0 dB
+SNR       : 19.4 dB
+Noise     : -30.4 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:08:27
+model     : Schrader-SMD3MA4
+type      : TPMS
+flags     : 7
+ID        : D999FC
+Pressure  : 183.75 kPa
+Modulation: ASK
+Freq      : 315.1 MHz
+RSSI      : -12.1 dB
+SNR       : 16.8 dB
+Noise     : -28.9 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:09:30
+model     : Toyota
+type      : TPMS
+id        : d208aa6c
+status    : 128
+pressure_kPa: 184.435
+temperature_C: 41.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -11.3 dB
+SNR       : 17.6 dB
+Noise     : -28.9 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:09:54
+model     : Toyota
+type      : TPMS
+id        : d9700a49
+status    : 128
+pressure_kPa: 224.080
+temperature_C: 40.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -10.8 dB
+SNR       : 19.3 dB
+Noise     : -30.1 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:11:05
+model     : Toyota
+type      : TPMS
+id        : d208aa6c
+status    : 128
+pressure_kPa: 182.711
+temperature_C: 41.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -11.8 dB
+SNR       : 18.6 dB
+Noise     : -30.4 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:11:29
+model     : Toyota
+type      : TPMS
+id        : d9700a49
+status    : 128
+pressure_kPa: 222.356
+temperature_C: 40.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -11.5 dB
+SNR       : 16.1 dB
+Noise     : -27.7 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:11:40
+model     : Schrader-SMD3MA4
+type      : TPMS
+flags     : 7
+ID        : D999FC
+Pressure  : 183.75 kPa
+Modulation: ASK
+Freq      : 315.1 MHz
+RSSI      : -12.1 dB
+SNR       : 16.6 dB
+Noise     : -28.7 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:11:40
+model     : Schrader-SMD3MA4
+type      : TPMS
+flags     : 7
+ID        : D999FC
+Pressure  : 183.75 kPa
+Modulation: ASK
+Freq      : 315.0 MHz
+RSSI      : -12.1 dB
+SNR       : 18.5 dB
+Noise     : -30.7 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:11:40
+model     : Schrader-SMD3MA4
+type      : TPMS
+flags     : 7
+ID        : D999FC
+Pressure  : 183.75 kPa
+Modulation: ASK
+Freq      : 315.0 MHz
+RSSI      : -12.1 dB
+SNR       : 17.0 dB
+Noise     : -29.1 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:11:40
+model     : Schrader-SMD3MA4
+type      : TPMS
+flags     : 7
+ID        : D999FC
+Pressure  : 183.75 kPa
+Modulation: ASK
+Freq      : 315.0 MHz
+RSSI      : -12.1 dB
+SNR       : 18.2 dB
+Noise     : -30.4 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:11:40
+model     : Schrader-SMD3MA4
+type      : TPMS
+flags     : 7
+ID        : D999FC
+Pressure  : 183.75 kPa
+Modulation: ASK
+Freq      : 315.0 MHz
+RSSI      : -12.1 dB
+SNR       : 16.4 dB
+Noise     : -28.5 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:11:40
+model     : Schrader-SMD3MA4
+type      : TPMS
+flags     : 7
+ID        : D999FC
+Pressure  : 183.75 kPa
+Modulation: ASK
+Freq      : 315.0 MHz
+RSSI      : -12.1 dB
+SNR       : 18.0 dB
+Noise     : -30.1 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:12:41
+model     : Toyota
+type      : TPMS
+id        : d208aa6c
+status    : 128
+pressure_kPa: 182.711
+temperature_C: 41.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -11.5 dB
+SNR       : 20.3 dB
+Noise     : -31.7 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:13:05
+model     : Toyota
+type      : TPMS
+id        : d9700a49
+status    : 128
+pressure_kPa: 222.356
+temperature_C: 40.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -9.9 dB
+SNR       : 22.2 dB
+Noise     : -32.1 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:14:17
+model     : Toyota
+type      : TPMS
+id        : d208aa6c
+status    : 128
+pressure_kPa: 182.711
+temperature_C: 41.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -11.7 dB
+SNR       : 18.4 dB
+Noise     : -30.1 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:14:41
+model     : Toyota
+type      : TPMS
+id        : d9700a49
+status    : 128
+pressure_kPa: 222.356
+temperature_C: 40.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -9.8 dB
+SNR       : 19.3 dB
+Noise     : -29.1 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:15:52
+model     : Toyota
+type      : TPMS
+id        : d208aa6c
+status    : 128
+pressure_kPa: 182.711
+temperature_C: 40.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -11.4 dB
+SNR       : 19.0 dB
+Noise     : -30.4 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:16:16
+model     : Toyota
+type      : TPMS
+id        : d9700a49
+status    : 128
+pressure_kPa: 222.356
+temperature_C: 40.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -10.0 dB
+SNR       : 19.6 dB
+Noise     : -29.6 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:17:28
+model     : Toyota
+type      : TPMS
+id        : d208aa6c
+status    : 128
+pressure_kPa: 180.987
+temperature_C: 40.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -11.6 dB
+SNR       : 19.1 dB
+Noise     : -30.7 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:17:52
+model     : Toyota
+type      : TPMS
+id        : d9700a49
+status    : 128
+pressure_kPa: 222.356
+temperature_C: 39.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -10.5 dB
+SNR       : 18.8 dB
+Noise     : -29.4 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:19:04
+model     : Toyota
+type      : TPMS
+id        : d208aa6c
+status    : 128
+pressure_kPa: 180.987
+temperature_C: 40.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -11.6 dB
+SNR       : 17.5 dB
+Noise     : -29.1 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:19:29
+model     : Toyota
+type      : TPMS
+id        : d9700a49
+status    : 128
+pressure_kPa: 220.632
+temperature_C: 39.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -9.9 dB
+SNR       : 19.2 dB
+Noise     : -29.1 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:20:04
+model     : Citroen
+type      : TPMS
+state     : 03
+id        : 8d890d8e
+flags     : 0
+repeat    : 1
+Pressure  : 252 kPa
+Temperature: 48 C
+maybe_battery: 10
+mic       : CHECKSUM
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -4.3 dB
+SNR       : 25.5 dB
+Noise     : -29.8 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:20:04
+model     : Jansite
+type      : TPMS
+id        : 038d890
+flags     : 13
+Pressure  : 241 kPa
+Temperature: -49 C
+code      : 038d890d8e01b9
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -4.3 dB
+SNR       : 25.5 dB
+Noise     : -29.8 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:20:04
+model     : Citroen
+type      : TPMS
+state     : 03
+id        : 8d890d8e
+flags     : 0
+repeat    : 2
+Pressure  : 252 kPa
+Temperature: 48 C
+maybe_battery: 10
+mic       : CHECKSUM
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -6.5 dB
+SNR       : 10.1 dB
+Noise     : -16.6 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:20:04
+model     : Jansite
+type      : TPMS
+id        : 038d890
+flags     : 13
+Pressure  : 241 kPa
+Temperature: -48 C
+code      : 038d890d8e02b9
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -6.5 dB
+SNR       : 10.1 dB
+Noise     : -16.6 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:20:04
+model     : Citroen
+type      : TPMS
+state     : 03
+id        : 8d890d8e
+flags     : 0
+repeat    : 3
+Pressure  : 252 kPa
+Temperature: 48 C
+maybe_battery: 10
+mic       : CHECKSUM
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -10.1 dB
+SNR       : 18.8 dB
+Noise     : -28.9 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:20:04
+model     : Jansite
+type      : TPMS
+id        : 038d890
+flags     : 13
+Pressure  : 241 kPa
+Temperature: -47 C
+code      : 038d890d8e03b9
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -10.1 dB
+SNR       : 18.8 dB
+Noise     : -28.9 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:20:04
+model     : Citroen
+type      : TPMS
+state     : 0f
+id        : 8d890d8e
+flags     : 0
+repeat    : 0
+Pressure  : 252 kPa
+Temperature: 48 C
+maybe_battery: 10
+mic       : CHECKSUM
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -7.0 dB
+SNR       : 24.1 dB
+Noise     : -31.0 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:20:04
+model     : Jansite
+type      : TPMS
+id        : 0f8d890
+flags     : 13
+Pressure  : 241 kPa
+Temperature: -50 C
+code      : 0f8d890d8e00b9
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -7.0 dB
+SNR       : 24.1 dB
+Noise     : -31.0 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:20:05
+model     : Citroen
+type      : TPMS
+state     : 03
+id        : 8d8d373a
+flags     : 0
+repeat    : 2
+Pressure  : 251 kPa
+Temperature: 41 C
+maybe_battery: 14
+mic       : CHECKSUM
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -7.9 dB
+SNR       : 21.2 dB
+Noise     : -29.1 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:20:05
+model     : Jansite
+type      : TPMS
+id        : 038d8d3
+flags     : 7
+Pressure  : 99 kPa
+Temperature: -48 C
+code      : 038d8d373a02b8
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -7.9 dB
+SNR       : 21.2 dB
+Noise     : -29.1 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:20:05
+model     : Citroen
+type      : TPMS
+state     : 03
+id        : 8d8d373a
+flags     : 0
+repeat    : 3
+Pressure  : 251 kPa
+Temperature: 41 C
+maybe_battery: 14
+mic       : CHECKSUM
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -12.1 dB
+SNR       : 16.2 dB
+Noise     : -28.3 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:20:05
+model     : Jansite
+type      : TPMS
+id        : 038d8d3
+flags     : 7
+Pressure  : 99 kPa
+Temperature: -47 C
+code      : 038d8d373a03b8
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -12.1 dB
+SNR       : 16.2 dB
+Noise     : -28.3 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:20:05
+model     : Citroen
+type      : TPMS
+state     : 0f
+id        : 8d8d373a
+flags     : 0
+repeat    : 0
+Pressure  : 251 kPa
+Temperature: 41 C
+maybe_battery: 14
+mic       : CHECKSUM
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -12.1 dB
+SNR       : 15.5 dB
+Noise     : -27.7 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:20:05
+model     : Jansite
+type      : TPMS
+id        : 0f8d8d3
+flags     : 7
+Pressure  : 99 kPa
+Temperature: -50 C
+code      : 0f8d8d373a00b8
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -12.1 dB
+SNR       : 15.5 dB
+Noise     : -27.7 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:20:31
+model     : Schrader-SMD3MA4
+type      : TPMS
+flags     : 7
+ID        : C225D0
+Pressure  : 151.34 kPa
+Modulation: ASK
+Freq      : 315.0 MHz
+RSSI      : -11.9 dB
+SNR       : 17.4 dB
+Noise     : -29.4 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:20:31
+model     : Schrader-SMD3MA4
+type      : TPMS
+flags     : 7
+ID        : C225D0
+Pressure  : 151.34 kPa
+Modulation: ASK
+Freq      : 315.0 MHz
+RSSI      : -5.6 dB
+SNR       : 23.6 dB
+Noise     : -29.1 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:20:31
+model     : Schrader-SMD3MA4
+type      : TPMS
+flags     : 7
+ID        : C225D0
+Pressure  : 151.34 kPa
+Modulation: ASK
+Freq      : 315.0 MHz
+RSSI      : -7.6 dB
+SNR       : 21.7 dB
+Noise     : -29.4 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:20:31
+model     : Schrader-SMD3MA4
+type      : TPMS
+flags     : 7
+ID        : C225D0
+Pressure  : 151.34 kPa
+Modulation: ASK
+Freq      : 315.0 MHz
+RSSI      : -10.2 dB
+SNR       : 19.7 dB
+Noise     : -29.8 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:20:32
+model     : Schrader-SMD3MA4
+type      : TPMS
+flags     : 7
+ID        : C225D0
+Pressure  : 151.34 kPa
+Modulation: ASK
+Freq      : 315.0 MHz
+RSSI      : -5.2 dB
+SNR       : 23.1 dB
+Noise     : -28.3 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:20:32
+model     : Schrader-SMD3MA4
+type      : TPMS
+flags     : 7
+ID        : C225D0
+Pressure  : 151.34 kPa
+Modulation: ASK
+Freq      : 315.0 MHz
+RSSI      : -7.3 dB
+SNR       : 21.4 dB
+Noise     : -28.7 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:20:41
+model     : Toyota
+type      : TPMS
+id        : d208aa6c
+status    : 128
+pressure_kPa: 180.987
+temperature_C: 40.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -11.4 dB
+SNR       : 17.3 dB
+Noise     : -28.7 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:21:05
+model     : Toyota
+type      : TPMS
+id        : d9700a49
+status    : 128
+pressure_kPa: 220.632
+temperature_C: 39.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -9.7 dB
+SNR       : 19.2 dB
+Noise     : -28.9 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:22:16
+model     : Toyota
+type      : TPMS
+id        : d208aa6c
+status    : 128
+pressure_kPa: 182.711
+temperature_C: 39.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -11.4 dB
+SNR       : 17.7 dB
+Noise     : -29.1 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:22:41
+model     : Toyota
+type      : TPMS
+id        : d9700a49
+status    : 128
+pressure_kPa: 220.632
+temperature_C: 38.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -9.7 dB
+SNR       : 19.2 dB
+Noise     : -28.9 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:23:52
+model     : Toyota
+type      : TPMS
+id        : d208aa6c
+status    : 128
+pressure_kPa: 182.711
+temperature_C: 39.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -11.9 dB
+SNR       : 17.7 dB
+Noise     : -29.6 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:24:17
+model     : Toyota
+type      : TPMS
+id        : d9700a49
+status    : 128
+pressure_kPa: 220.632
+temperature_C: 38.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -10.3 dB
+SNR       : 18.9 dB
+Noise     : -29.1 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:25:29
+model     : Toyota
+type      : TPMS
+id        : d208aa6c
+status    : 128
+pressure_kPa: 182.711
+temperature_C: 39.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -11.5 dB
+SNR       : 19.9 dB
+Noise     : -31.4 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:25:53
+model     : Toyota
+type      : TPMS
+id        : d9700a49
+status    : 128
+pressure_kPa: 220.632
+temperature_C: 38.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -10.3 dB
+SNR       : 19.6 dB
+Noise     : -29.8 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:27:04
+model     : Toyota
+type      : TPMS
+id        : d208aa6c
+status    : 128
+pressure_kPa: 182.711
+temperature_C: 39.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -11.5 dB
+SNR       : 17.6 dB
+Noise     : -29.1 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:27:29
+model     : Toyota
+type      : TPMS
+id        : d9700a49
+status    : 128
+pressure_kPa: 220.632
+temperature_C: 38.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -9.8 dB
+SNR       : 18.6 dB
+Noise     : -28.3 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:28:39
+model     : Toyota
+type      : TPMS
+id        : d208aa6c
+status    : 128
+pressure_kPa: 180.987
+temperature_C: 39.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -11.6 dB
+SNR       : 17.8 dB
+Noise     : -29.4 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:29:05
+model     : Toyota
+type      : TPMS
+id        : d9700a49
+status    : 128
+pressure_kPa: 220.632
+temperature_C: 38.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -10.2 dB
+SNR       : 20.1 dB
+Noise     : -30.4 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:30:16
+model     : Toyota
+type      : TPMS
+id        : d208aa6c
+status    : 128
+pressure_kPa: 180.987
+temperature_C: 39.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -11.5 dB
+SNR       : 18.0 dB
+Noise     : -29.6 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:30:40
+model     : Toyota
+type      : TPMS
+id        : d9700a49
+status    : 128
+pressure_kPa: 220.632
+temperature_C: 37.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -10.1 dB
+SNR       : 18.1 dB
+Noise     : -28.2 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:31:50
+model     : Toyota
+type      : TPMS
+id        : d208aa6c
+status    : 128
+pressure_kPa: 180.987
+temperature_C: 39.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -11.6 dB
+SNR       : 20.6 dB
+Noise     : -32.1 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:32:16
+model     : Toyota
+type      : TPMS
+id        : d9700a49
+status    : 128
+pressure_kPa: 220.632
+temperature_C: 37.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -9.7 dB
+SNR       : 20.4 dB
+Noise     : -30.1 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:32:22
+model     : Toyota
+type      : TPMS
+id        : d9a63a62
+status    : 131
+pressure_kPa: 256.830
+temperature_C: 44.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -11.5 dB
+SNR       : 16.5 dB
+Noise     : -28.0 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:33:25
+model     : Toyota
+type      : TPMS
+id        : d208aa6c
+status    : 128
+pressure_kPa: 180.987
+temperature_C: 39.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -11.5 dB
+SNR       : 18.0 dB
+Noise     : -29.6 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:33:51
+model     : Toyota
+type      : TPMS
+id        : d9700a49
+status    : 128
+pressure_kPa: 220.632
+temperature_C: 37.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -10.6 dB
+SNR       : 19.2 dB
+Noise     : -29.8 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:33:55
+model     : Toyota
+type      : TPMS
+id        : d9a49513
+status    : 131
+pressure_kPa: 272.343
+temperature_C: 46.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -12.1 dB
+SNR       : 18.0 dB
+Noise     : -30.1 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:35:00
+model     : Toyota
+type      : TPMS
+id        : d208aa6c
+status    : 128
+pressure_kPa: 180.987
+temperature_C: 38.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -11.9 dB
+SNR       : 16.5 dB
+Noise     : -28.3 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:35:26
+model     : Toyota
+type      : TPMS
+id        : d9700a49
+status    : 128
+pressure_kPa: 220.632
+temperature_C: 37.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -10.7 dB
+SNR       : 19.1 dB
+Noise     : -29.8 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:36:36
+model     : Toyota
+type      : TPMS
+id        : d208aa6c
+status    : 128
+pressure_kPa: 182.711
+temperature_C: 38.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -11.9 dB
+SNR       : 18.5 dB
+Noise     : -30.4 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:37:02
+model     : Toyota
+type      : TPMS
+id        : d9700a49
+status    : 128
+pressure_kPa: 218.909
+temperature_C: 36.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -10.9 dB
+SNR       : 17.1 dB
+Noise     : -28.0 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:38:12
+model     : Toyota
+type      : TPMS
+id        : d208aa6c
+status    : 128
+pressure_kPa: 182.711
+temperature_C: 39.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -12.1 dB
+SNR       : 16.6 dB
+Noise     : -28.7 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:38:39
+model     : Toyota
+type      : TPMS
+id        : d9700a49
+status    : 128
+pressure_kPa: 218.909
+temperature_C: 36.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -10.8 dB
+SNR       : 19.3 dB
+Noise     : -30.1 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:39:49
+model     : Toyota
+type      : TPMS
+id        : d208aa6c
+status    : 128
+pressure_kPa: 182.711
+temperature_C: 39.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -11.7 dB
+SNR       : 15.8 dB
+Noise     : -27.5 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:40:15
+model     : Toyota
+type      : TPMS
+id        : d9700a49
+status    : 128
+pressure_kPa: 218.909
+temperature_C: 37.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -11.2 dB
+SNR       : 18.2 dB
+Noise     : -29.4 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:40:39
+model     : Citroen
+type      : TPMS
+state     : 03
+id        : 8a4cf5ed
+flags     : 0
+repeat    : 1
+Pressure  : 248 kPa
+Temperature: 39 C
+maybe_battery: 20
+mic       : CHECKSUM
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -11.5 dB
+SNR       : 16.3 dB
+Noise     : -27.8 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:40:39
+model     : Jansite
+type      : TPMS
+id        : 038a4cf
+flags     : 5
+Pressure  : 403 kPa
+Temperature: -49 C
+code      : 038a4cf5ed01b6
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -11.5 dB
+SNR       : 16.3 dB
+Noise     : -27.8 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:40:39
+model     : Citroen
+type      : TPMS
+state     : 03
+id        : 8a4cf5ed
+flags     : 0
+repeat    : 3
+Pressure  : 248 kPa
+Temperature: 39 C
+maybe_battery: 20
+mic       : CHECKSUM
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -12.1 dB
+SNR       : 15.9 dB
+Noise     : -28.0 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:40:39
+model     : Jansite
+type      : TPMS
+id        : 038a4cf
+flags     : 5
+Pressure  : 403 kPa
+Temperature: -47 C
+code      : 038a4cf5ed03b6
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -12.1 dB
+SNR       : 15.9 dB
+Noise     : -28.0 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:40:45
+model     : Ford
+type      : TPMS
+id        : 37e90020
+code      : 98d346
+mic       : CHECKSUM
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -10.4 dB
+SNR       : 18.5 dB
+Noise     : -28.9 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:40:45
+model     : Jansite
+type      : TPMS
+id        : 37e9002
+flags     : 0
+Pressure  : 258 kPa
+Temperature: 161 C
+code      : 37e9002098d346
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -10.4 dB
+SNR       : 18.5 dB
+Noise     : -28.9 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:40:45
+model     : Ford
+type      : TPMS
+id        : 37e90020
+code      : 98d346
+mic       : CHECKSUM
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -5.0 dB
+SNR       : 26.7 dB
+Noise     : -31.7 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:40:45
+model     : Jansite
+type      : TPMS
+id        : 37e9002
+flags     : 0
+Pressure  : 258 kPa
+Temperature: 161 C
+code      : 37e9002098d346
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -5.0 dB
+SNR       : 26.7 dB
+Noise     : -31.7 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:40:45
+model     : Ford
+type      : TPMS
+id        : 37e90020
+code      : 98d346
+mic       : CHECKSUM
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -8.2 dB
+SNR       : 20.5 dB
+Noise     : -28.7 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:40:45
+model     : Jansite
+type      : TPMS
+id        : 37e9002
+flags     : 0
+Pressure  : 258 kPa
+Temperature: 161 C
+code      : 37e9002098d346
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -8.2 dB
+SNR       : 20.5 dB
+Noise     : -28.7 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:41:24
+model     : Toyota
+type      : TPMS
+id        : d208aa6c
+status    : 128
+pressure_kPa: 182.711
+temperature_C: 39.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -11.9 dB
+SNR       : 18.5 dB
+Noise     : -30.4 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:41:51
+model     : Toyota
+type      : TPMS
+id        : d9700a49
+status    : 128
+pressure_kPa: 218.909
+temperature_C: 36.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -10.9 dB
+SNR       : 17.2 dB
+Noise     : -28.2 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:43:00
+model     : Toyota
+type      : TPMS
+id        : d208aa6c
+status    : 128
+pressure_kPa: 184.435
+temperature_C: 39.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -11.4 dB
+SNR       : 17.2 dB
+Noise     : -28.5 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:43:26
+model     : Toyota
+type      : TPMS
+id        : d9700a49
+status    : 128
+pressure_kPa: 218.909
+temperature_C: 36.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -10.2 dB
+SNR       : 17.8 dB
+Noise     : -28.0 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:44:36
+model     : Toyota
+type      : TPMS
+id        : d208aa6c
+status    : 128
+pressure_kPa: 184.435
+temperature_C: 40.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -11.8 dB
+SNR       : 16.7 dB
+Noise     : -28.5 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:45:02
+model     : Toyota
+type      : TPMS
+id        : d9700a49
+status    : 128
+pressure_kPa: 218.909
+temperature_C: 36.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -10.2 dB
+SNR       : 19.7 dB
+Noise     : -29.8 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:46:11
+model     : Toyota
+type      : TPMS
+id        : d208aa6c
+status    : 128
+pressure_kPa: 184.435
+temperature_C: 40.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -11.7 dB
+SNR       : 16.2 dB
+Noise     : -27.8 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:46:19
+model     : Schrader-SMD3MA4
+type      : TPMS
+flags     : 7
+ID        : D999FC
+Pressure  : 183.75 kPa
+Modulation: ASK
+Freq      : 315.1 MHz
+RSSI      : -12.1 dB
+SNR       : 16.4 dB
+Noise     : -28.5 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:46:19
+model     : Schrader-SMD3MA4
+type      : TPMS
+flags     : 7
+ID        : D999FC
+Pressure  : 183.75 kPa
+Modulation: ASK
+Freq      : 315.1 MHz
+RSSI      : -12.1 dB
+SNR       : 16.6 dB
+Noise     : -28.7 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:46:20
+model     : Schrader-SMD3MA4
+type      : TPMS
+flags     : 7
+ID        : D999FC
+Pressure  : 183.75 kPa
+Modulation: ASK
+Freq      : 315.1 MHz
+RSSI      : -12.1 dB
+SNR       : 16.0 dB
+Noise     : -28.2 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:47:47
+model     : Toyota
+type      : TPMS
+id        : d208aa6c
+status    : 128
+pressure_kPa: 182.711
+temperature_C: 40.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -12.1 dB
+SNR       : 16.4 dB
+Noise     : -28.5 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:48:13
+model     : Toyota
+type      : TPMS
+id        : d9700a49
+status    : 128
+pressure_kPa: 218.909
+temperature_C: 36.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -12.1 dB
+SNR       : 17.0 dB
+Noise     : -29.1 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:48:22
+model     : Schrader-SMD3MA4
+type      : TPMS
+flags     : 7
+ID        : D999FC
+Pressure  : 184.78 kPa
+Modulation: ASK
+Freq      : 315.1 MHz
+RSSI      : -12.1 dB
+SNR       : 17.0 dB
+Noise     : -29.1 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:48:22
+model     : Schrader-SMD3MA4
+type      : TPMS
+flags     : 7
+ID        : D999FC
+Pressure  : 184.78 kPa
+Modulation: ASK
+Freq      : 315.0 MHz
+RSSI      : -12.1 dB
+SNR       : 15.7 dB
+Noise     : -27.8 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:48:22
+model     : Schrader-SMD3MA4
+type      : TPMS
+flags     : 7
+ID        : D999FC
+Pressure  : 184.78 kPa
+Modulation: ASK
+Freq      : 315.0 MHz
+RSSI      : -12.1 dB
+SNR       : 16.0 dB
+Noise     : -28.2 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:48:23
+model     : Schrader-SMD3MA4
+type      : TPMS
+flags     : 7
+ID        : D999FC
+Pressure  : 184.78 kPa
+Modulation: ASK
+Freq      : 315.1 MHz
+RSSI      : -12.1 dB
+SNR       : 16.6 dB
+Noise     : -28.7 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:48:23
+model     : Schrader-SMD3MA4
+type      : TPMS
+flags     : 7
+ID        : D999FC
+Pressure  : 184.78 kPa
+Modulation: ASK
+Freq      : 315.0 MHz
+RSSI      : -12.1 dB
+SNR       : 16.8 dB
+Noise     : -28.9 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:48:23
+model     : Schrader-SMD3MA4
+type      : TPMS
+flags     : 7
+ID        : D999FC
+Pressure  : 184.78 kPa
+Modulation: ASK
+Freq      : 315.0 MHz
+RSSI      : -12.1 dB
+SNR       : 16.0 dB
+Noise     : -28.2 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:49:23
+model     : Toyota
+type      : TPMS
+id        : d208aa6c
+status    : 128
+pressure_kPa: 184.435
+temperature_C: 40.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -11.2 dB
+SNR       : 18.4 dB
+Noise     : -29.6 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:50:59
+model     : Toyota
+type      : TPMS
+id        : d208aa6c
+status    : 128
+pressure_kPa: 184.435
+temperature_C: 40.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -11.0 dB
+SNR       : 20.3 dB
+Noise     : -31.4 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:51:25
+model     : Toyota
+type      : TPMS
+id        : d9700a49
+status    : 128
+pressure_kPa: 218.909
+temperature_C: 35.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -12.1 dB
+SNR       : 17.2 dB
+Noise     : -29.4 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:51:28
+model     : Schrader-SMD3MA4
+type      : TPMS
+flags     : 7
+ID        : D999FC
+Pressure  : 184.78 kPa
+Modulation: ASK
+Freq      : 315.1 MHz
+RSSI      : -12.1 dB
+SNR       : 17.2 dB
+Noise     : -29.4 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:52:35
+model     : Toyota
+type      : TPMS
+id        : d208aa6c
+status    : 128
+pressure_kPa: 184.435
+temperature_C: 41.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -11.3 dB
+SNR       : 18.3 dB
+Noise     : -29.6 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:53:01
+model     : Toyota
+type      : TPMS
+id        : d9700a49
+status    : 128
+pressure_kPa: 218.909
+temperature_C: 35.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -11.8 dB
+SNR       : 16.1 dB
+Noise     : -27.8 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:54:11
+model     : Toyota
+type      : TPMS
+id        : d208aa6c
+status    : 128
+pressure_kPa: 184.435
+temperature_C: 41.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -11.4 dB
+SNR       : 19.0 dB
+Noise     : -30.4 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:54:34
+model     : Schrader-SMD3MA4
+type      : TPMS
+flags     : 7
+ID        : D999FC
+Pressure  : 184.78 kPa
+Modulation: ASK
+Freq      : 315.0 MHz
+RSSI      : -12.1 dB
+SNR       : 16.8 dB
+Noise     : -28.9 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:54:34
+model     : Schrader-SMD3MA4
+type      : TPMS
+flags     : 7
+ID        : D999FC
+Pressure  : 184.78 kPa
+Modulation: ASK
+Freq      : 315.0 MHz
+RSSI      : -12.1 dB
+SNR       : 18.2 dB
+Noise     : -30.4 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:54:34
+model     : Schrader-SMD3MA4
+type      : TPMS
+flags     : 7
+ID        : D999FC
+Pressure  : 184.78 kPa
+Modulation: ASK
+Freq      : 315.0 MHz
+RSSI      : -12.1 dB
+SNR       : 15.4 dB
+Noise     : -27.5 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:54:35
+model     : Schrader-SMD3MA4
+type      : TPMS
+flags     : 7
+ID        : D999FC
+Pressure  : 184.78 kPa
+Modulation: ASK
+Freq      : 315.1 MHz
+RSSI      : -12.1 dB
+SNR       : 16.6 dB
+Noise     : -28.7 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:54:36
+model     : Toyota
+type      : TPMS
+id        : d9700a49
+status    : 128
+pressure_kPa: 218.909
+temperature_C: 35.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -12.0 dB
+SNR       : 18.1 dB
+Noise     : -30.1 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:55:36
+model     : Schrader-SMD3MA4
+type      : TPMS
+flags     : 7
+ID        : D999FC
+Pressure  : 184.78 kPa
+Modulation: ASK
+Freq      : 315.1 MHz
+RSSI      : -12.1 dB
+SNR       : 15.4 dB
+Noise     : -27.5 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:55:36
+model     : Schrader-SMD3MA4
+type      : TPMS
+flags     : 7
+ID        : D999FC
+Pressure  : 184.78 kPa
+Modulation: ASK
+Freq      : 315.1 MHz
+RSSI      : -12.1 dB
+SNR       : 16.0 dB
+Noise     : -28.2 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:55:47
+model     : Toyota
+type      : TPMS
+id        : d208aa6c
+status    : 128
+pressure_kPa: 184.435
+temperature_C: 41.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -11.4 dB
+SNR       : 17.7 dB
+Noise     : -29.1 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:56:13
+model     : Toyota
+type      : TPMS
+id        : d9700a49
+status    : 128
+pressure_kPa: 217.185
+temperature_C: 35.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -11.7 dB
+SNR       : 20.5 dB
+Noise     : -32.1 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:57:23
+model     : Toyota
+type      : TPMS
+id        : d208aa6c
+status    : 128
+pressure_kPa: 184.435
+temperature_C: 41.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -10.9 dB
+SNR       : 18.4 dB
+Noise     : -29.4 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:57:40
+model     : Schrader-SMD3MA4
+type      : TPMS
+flags     : 7
+ID        : D999FC
+Pressure  : 183.75 kPa
+Modulation: ASK
+Freq      : 315.1 MHz
+RSSI      : -12.1 dB
+SNR       : 15.9 dB
+Noise     : -28.0 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:57:40
+model     : Schrader-SMD3MA4
+type      : TPMS
+flags     : 7
+ID        : D999FC
+Pressure  : 183.75 kPa
+Modulation: ASK
+Freq      : 315.1 MHz
+RSSI      : -12.1 dB
+SNR       : 15.2 dB
+Noise     : -27.4 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:57:40
+model     : Schrader-SMD3MA4
+type      : TPMS
+flags     : 7
+ID        : D999FC
+Pressure  : 183.75 kPa
+Modulation: ASK
+Freq      : 315.1 MHz
+RSSI      : -12.1 dB
+SNR       : 15.7 dB
+Noise     : -27.8 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:57:49
+model     : Toyota
+type      : TPMS
+id        : d9700a49
+status    : 128
+pressure_kPa: 217.185
+temperature_C: 35.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -11.7 dB
+SNR       : 16.3 dB
+Noise     : -28.0 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:58:12
+model     : Jansite
+type      : TPMS
+id        : 0d840aa
+flags     : 14
+Pressure  : 12 kPa
+Temperature: 118 C
+code      : 0d840aae07a860
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -5.4 dB
+SNR       : 24.5 dB
+Noise     : -29.8 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:58:12
+model     : Abarth 124 Spider
+type      : TPMS
+id        : 0d840aae
+flags     : 07
+Pressure  : 232 kPa
+Temperature: 46 C
+status    : 12
+mic       : CHECKSUM
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -5.4 dB
+SNR       : 24.5 dB
+Noise     : -29.8 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:58:13
+model     : Renault
+type      : TPMS
+id        : 6d07b7
+flags     : 03
+pressure_kPa: 291.0 kPa
+temperature_C: -20 C
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -7.4 dB
+SNR       : 23.3 dB
+Noise     : -30.7 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:58:13
+model     : Jansite
+type      : TPMS
+id        : 0d840ab
+flags     : 7
+Pressure  : 12 kPa
+Temperature: 59 C
+code      : 0d840ab7076d60
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -7.4 dB
+SNR       : 23.3 dB
+Noise     : -30.7 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:58:13
+model     : Abarth 124 Spider
+type      : TPMS
+id        : 0d840ab7
+flags     : 07
+Pressure  : 150 kPa
+Temperature: 46 C
+status    : 8
+mic       : CHECKSUM
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -7.4 dB
+SNR       : 23.3 dB
+Noise     : -30.7 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:58:13
+model     : Renault
+type      : TPMS
+id        : 6d07b7
+flags     : 03
+pressure_kPa: 291.0 kPa
+temperature_C: -20 C
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -9.5 dB
+SNR       : 20.8 dB
+Noise     : -30.4 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:58:13
+model     : Jansite
+type      : TPMS
+id        : 0d840ab
+flags     : 7
+Pressure  : 12 kPa
+Temperature: 59 C
+code      : 0d840ab7076d60
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -9.5 dB
+SNR       : 20.8 dB
+Noise     : -30.4 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:58:13
+model     : Abarth 124 Spider
+type      : TPMS
+id        : 0d840ab7
+flags     : 07
+Pressure  : 150 kPa
+Temperature: 46 C
+status    : 8
+mic       : CHECKSUM
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -9.5 dB
+SNR       : 20.8 dB
+Noise     : -30.4 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:58:59
+model     : Toyota
+type      : TPMS
+id        : d208aa6c
+status    : 128
+pressure_kPa: 182.711
+temperature_C: 40.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -11.4 dB
+SNR       : 18.2 dB
+Noise     : -29.6 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 15:59:25
+model     : Toyota
+type      : TPMS
+id        : d9700a49
+status    : 128
+pressure_kPa: 217.185
+temperature_C: 35.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -12.1 dB
+SNR       : 17.7 dB
+Noise     : -29.8 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 16:00:35
+model     : Toyota
+type      : TPMS
+id        : d208aa6c
+status    : 128
+pressure_kPa: 182.711
+temperature_C: 41.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -11.1 dB
+SNR       : 20.2 dB
+Noise     : -31.4 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 16:00:47
+model     : Schrader-SMD3MA4
+type      : TPMS
+flags     : 7
+ID        : D999FC
+Pressure  : 183.75 kPa
+Modulation: ASK
+Freq      : 315.0 MHz
+RSSI      : -12.1 dB
+SNR       : 15.7 dB
+Noise     : -27.8 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 16:00:47
+model     : Schrader-SMD3MA4
+type      : TPMS
+flags     : 7
+ID        : D999FC
+Pressure  : 183.75 kPa
+Modulation: ASK
+Freq      : 315.1 MHz
+RSSI      : -12.1 dB
+SNR       : 14.9 dB
+Noise     : -27.1 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 16:00:47
+model     : Schrader-SMD3MA4
+type      : TPMS
+flags     : 7
+ID        : D999FC
+Pressure  : 183.75 kPa
+Modulation: ASK
+Freq      : 315.1 MHz
+RSSI      : -12.1 dB
+SNR       : 15.1 dB
+Noise     : -27.2 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 16:00:47
+model     : Schrader-SMD3MA4
+type      : TPMS
+flags     : 7
+ID        : D999FC
+Pressure  : 183.75 kPa
+Modulation: ASK
+Freq      : 315.0 MHz
+RSSI      : -12.1 dB
+SNR       : 16.0 dB
+Noise     : -28.2 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 16:00:47
+model     : Schrader-SMD3MA4
+type      : TPMS
+flags     : 7
+ID        : D999FC
+Pressure  : 183.75 kPa
+Modulation: ASK
+Freq      : 315.0 MHz
+RSSI      : -12.1 dB
+SNR       : 17.2 dB
+Noise     : -29.4 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 16:00:47
+model     : Schrader-SMD3MA4
+type      : TPMS
+flags     : 7
+ID        : D999FC
+Pressure  : 183.75 kPa
+Modulation: ASK
+Freq      : 315.1 MHz
+RSSI      : -12.1 dB
+SNR       : 17.2 dB
+Noise     : -29.4 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 16:01:02
+model     : Toyota
+type      : TPMS
+id        : d9700a49
+status    : 128
+pressure_kPa: 217.185
+temperature_C: 35.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -11.7 dB
+SNR       : 17.7 dB
+Noise     : -29.4 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 16:01:51
+model     : Schrader-SMD3MA4
+type      : TPMS
+flags     : 7
+ID        : D999FC
+Pressure  : 183.75 kPa
+Modulation: ASK
+Freq      : 315.1 MHz
+RSSI      : -12.1 dB
+SNR       : 15.4 dB
+Noise     : -27.5 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 16:01:51
+model     : Schrader-SMD3MA4
+type      : TPMS
+flags     : 7
+ID        : D999FC
+Pressure  : 183.75 kPa
+Modulation: ASK
+Freq      : 315.1 MHz
+RSSI      : -12.1 dB
+SNR       : 17.7 dB
+Noise     : -29.8 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 16:02:11
+model     : Toyota
+type      : TPMS
+id        : d208aa6c
+status    : 128
+pressure_kPa: 182.711
+temperature_C: 40.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -10.9 dB
+SNR       : 19.2 dB
+Noise     : -30.1 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 16:02:38
+model     : Toyota
+type      : TPMS
+id        : d9700a49
+status    : 128
+pressure_kPa: 217.185
+temperature_C: 35.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -12.1 dB
+SNR       : 16.6 dB
+Noise     : -28.7 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 16:02:55
+model     : Schrader-SMD3MA4
+type      : TPMS
+flags     : 7
+ID        : D999FC
+Pressure  : 183.75 kPa
+Modulation: ASK
+Freq      : 315.0 MHz
+RSSI      : -12.1 dB
+SNR       : 16.2 dB
+Noise     : -28.3 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 16:02:56
+model     : Schrader-SMD3MA4
+type      : TPMS
+flags     : 7
+ID        : D999FC
+Pressure  : 183.75 kPa
+Modulation: ASK
+Freq      : 315.0 MHz
+RSSI      : -12.1 dB
+SNR       : 18.0 dB
+Noise     : -30.1 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 16:02:56
+model     : Schrader-SMD3MA4
+type      : TPMS
+flags     : 7
+ID        : D999FC
+Pressure  : 183.75 kPa
+Modulation: ASK
+Freq      : 315.1 MHz
+RSSI      : -12.1 dB
+SNR       : 15.1 dB
+Noise     : -27.2 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 16:02:56
+model     : Schrader-SMD3MA4
+type      : TPMS
+flags     : 7
+ID        : D999FC
+Pressure  : 183.75 kPa
+Modulation: ASK
+Freq      : 315.0 MHz
+RSSI      : -12.1 dB
+SNR       : 17.7 dB
+Noise     : -29.8 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 16:02:56
+model     : Schrader-SMD3MA4
+type      : TPMS
+flags     : 7
+ID        : D999FC
+Pressure  : 183.75 kPa
+Modulation: ASK
+Freq      : 315.0 MHz
+RSSI      : -12.1 dB
+SNR       : 15.4 dB
+Noise     : -27.5 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 16:02:56
+model     : Schrader-SMD3MA4
+type      : TPMS
+flags     : 7
+ID        : D999FC
+Pressure  : 183.75 kPa
+Modulation: ASK
+Freq      : 315.0 MHz
+RSSI      : -12.1 dB
+SNR       : 15.5 dB
+Noise     : -27.7 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 16:03:16
+model     : Toyota
+type      : TPMS
+id        : d9701168
+status    : 128
+pressure_kPa: 212.014
+temperature_C: 33.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -12.1 dB
+SNR       : 15.1 dB
+Noise     : -27.2 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 16:03:47
+model     : Toyota
+type      : TPMS
+id        : d208aa6c
+status    : 128
+pressure_kPa: 180.987
+temperature_C: 40.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -11.4 dB
+SNR       : 18.4 dB
+Noise     : -29.8 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 16:03:57
+model     : Schrader-SMD3MA4
+type      : TPMS
+flags     : 7
+ID        : D999FC
+Pressure  : 183.75 kPa
+Modulation: ASK
+Freq      : 315.0 MHz
+RSSI      : -12.1 dB
+SNR       : 15.4 dB
+Noise     : -27.5 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 16:03:57
+model     : Schrader-SMD3MA4
+type      : TPMS
+flags     : 7
+ID        : D999FC
+Pressure  : 183.75 kPa
+Modulation: ASK
+Freq      : 315.1 MHz
+RSSI      : -12.1 dB
+SNR       : 15.9 dB
+Noise     : -28.0 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 16:03:57
+model     : Schrader-SMD3MA4
+type      : TPMS
+flags     : 7
+ID        : D999FC
+Pressure  : 183.75 kPa
+Modulation: ASK
+Freq      : 315.1 MHz
+RSSI      : -12.1 dB
+SNR       : 15.9 dB
+Noise     : -28.0 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 16:03:57
+model     : Schrader-SMD3MA4
+type      : TPMS
+flags     : 7
+ID        : D999FC
+Pressure  : 183.75 kPa
+Modulation: ASK
+Freq      : 315.1 MHz
+RSSI      : -12.1 dB
+SNR       : 15.7 dB
+Noise     : -27.8 dB
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+time      : 2022-10-16 16:04:13
+model     : Toyota
+type      : TPMS
+id        : d9700a49
+status    : 128
+pressure_kPa: 217.185
+temperature_C: 35.000
+mic       : CRC
+Modulation: FSK
+Freq1     : 315.0 MHz
+Freq2     : 315.0 MHz
+RSSI      : -12.1 dB
+SNR       : 15.1 dB
+Noise     : -27.2 dB

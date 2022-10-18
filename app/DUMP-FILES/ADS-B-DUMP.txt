@@ -1,0 +1,1162 @@
+*8da50e3f5869a532d46e36b3f4e2;
+CRC: b3f4e2 (ok)
+DF 17: ADS-B message.
+  Capability     : 5 (Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne))
+  ICAO Address   : a50e3f
+  Extended Squitter  Type: 11
+  Extended Squitter  Sub : 0
+  Extended Squitter  Name: Airborne Position (Baro Altitude)
+    F flag   : odd
+    T flag   : non-UTC
+    Altitude : 20050 feet
+    Latitude : 39274 (not decoded)
+    Longitude: 28214 (not decoded)
+
+*8dac893a58b3e156a3d5b05e78f3;
+CRC: 5e78f3 (ok)
+DF 17: ADS-B message.
+  Capability     : 5 (Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne))
+  ICAO Address   : ac893a
+  Extended Squitter  Type: 11
+  Extended Squitter  Sub : 0
+  Extended Squitter  Name: Airborne Position (Baro Altitude)
+    F flag   : even
+    T flag   : non-UTC
+    Altitude : 34950 feet
+    Latitude : 43857 (not decoded)
+    Longitude: 120240 (not decoded)
+
+*8dac893af82100020049b8e51cc6;
+CRC: e51cc6 (ok)
+Single bit error fixed, bit 88
+DF 17: ADS-B message.
+  Capability     : 5 (Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne))
+  ICAO Address   : ac893a
+  Extended Squitter  Type: 31
+  Extended Squitter  Sub : 0
+  Extended Squitter  Name: Aircraft Operational Status Message
+    Unrecognized ME type: 31 subtype: 0
+
+*8dac893a990d7616504c489d8da5;
+CRC: 9d8da5 (ok)
+DF 17: ADS-B message.
+  Capability     : 5 (Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne))
+  ICAO Address   : ac893a
+  Extended Squitter  Type: 19
+  Extended Squitter  Sub : 1
+  Extended Squitter  Name: Airborne Velocity
+    EW direction      : 1
+    EW velocity       : 374
+    NS direction      : 0
+    NS velocity       : 178
+    Vertical rate src : 1
+    Vertical rate sign: 0
+    Vertical rate     : 19
+
+*8dac893a58b3f50cd24a3e8e288f;
+CRC: 8e288f (ok)
+DF 17: ADS-B message.
+  Capability     : 5 (Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne))
+  ICAO Address   : ac893a
+  Extended Squitter  Type: 11
+  Extended Squitter  Sub : 0
+  Extended Squitter  Name: Airborne Position (Baro Altitude)
+    F flag   : odd
+    T flag   : non-UTC
+    Altitude : 34975 feet
+    Latitude : 34409 (not decoded)
+    Longitude: 19006 (not decoded)
+
+*8dac893a990d7616504c489d8da5;
+CRC: 9d8da5 (ok)
+DF 17: ADS-B message.
+  Capability     : 5 (Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne))
+  ICAO Address   : ac893a
+  Extended Squitter  Type: 19
+  Extended Squitter  Sub : 1
+  Extended Squitter  Name: Airborne Velocity
+    EW direction      : 1
+    EW velocity       : 374
+    NS direction      : 0
+    NS velocity       : 178
+    Vertical rate src : 1
+    Vertical rate sign: 0
+    Vertical rate     : 19
+
+*2000163f169b45;
+CRC: 169b45 (ok)
+DF 4: Surveillance, Altitude Reply.
+  Flight Status  : Normal, Airborne
+  DR             : 0
+  UM             : 0
+  Altitude       : 34975 feet
+  ICAO Address   : ac893a
+
+*8dac893aea466867513c08ca05f2;
+CRC: ca05f2 (ok)
+DF 17: ADS-B message.
+  Capability     : 5 (Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne))
+  ICAO Address   : ac893a
+  Extended Squitter  Type: 29
+  Extended Squitter  Sub : 2
+  Extended Squitter  Name: Unknown
+    Unrecognized ME type: 29 subtype: 2
+
+*8dac893a990d7616504c47622ded;
+CRC: 622ded (ok)
+DF 17: ADS-B message.
+  Capability     : 5 (Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne))
+  ICAO Address   : ac893a
+  Extended Squitter  Type: 19
+  Extended Squitter  Sub : 1
+  Extended Squitter  Name: Airborne Velocity
+    EW direction      : 1
+    EW velocity       : 374
+    NS direction      : 0
+    NS velocity       : 178
+    Vertical rate src : 1
+    Vertical rate sign: 0
+    Vertical rate     : 19
+
+*5dac893a145021;
+CRC: 145021 (ok)
+DF 11: All Call Reply.
+  Capability  : Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne)
+  ICAO Address: ac893a
+
+*02e18d1665235f;
+CRC: 65235f (ok)
+DF 0: Short Air-Air Surveillance.
+  Altitude       : 19950 feet
+  ICAO Address   : a50e3f
+
+*5da50e3f5bdaf3;
+CRC: 5bdaf3 (ok)
+Single bit error fixed, bit 55
+DF 11: All Call Reply.
+  Capability  : Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne)
+  ICAO Address: a50e3f
+
+*5dac893a145021;
+CRC: 145021 (ok)
+Single bit error fixed, bit 55
+DF 11: All Call Reply.
+  Capability  : Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne)
+  ICAO Address: ac893a
+
+*5dac893a145021;
+CRC: 145021 (ok)
+Single bit error fixed, bit 55
+DF 11: All Call Reply.
+  Capability  : Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne)
+  ICAO Address: ac893a
+
+*8dac893a990d7616504c489d8da5;
+CRC: 9d8da5 (ok)
+DF 17: ADS-B message.
+  Capability     : 5 (Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne))
+  ICAO Address   : ac893a
+  Extended Squitter  Type: 19
+  Extended Squitter  Sub : 1
+  Extended Squitter  Name: Airborne Velocity
+    EW direction      : 1
+    EW velocity       : 374
+    NS direction      : 0
+    NS velocity       : 178
+    Vertical rate src : 1
+    Vertical rate sign: 0
+    Vertical rate     : 19
+
+*8da50e3fea07e858013c08a39798;
+CRC: a39798 (ok)
+DF 17: ADS-B message.
+  Capability     : 5 (Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne))
+  ICAO Address   : a50e3f
+  Extended Squitter  Type: 29
+  Extended Squitter  Sub : 2
+  Extended Squitter  Name: Unknown
+    Unrecognized ME type: 29 subtype: 2
+
+*5dac893a145021;
+CRC: 145021 (ok)
+Single bit error fixed, bit 54
+DF 11: All Call Reply.
+  Capability  : Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne)
+  ICAO Address: ac893a
+
+*8da50e3f9909679d18d02b5a64ba;
+CRC: 5a64ba (ok)
+DF 17: ADS-B message.
+  Capability     : 5 (Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne))
+  ICAO Address   : a50e3f
+  Extended Squitter  Type: 19
+  Extended Squitter  Sub : 1
+  Extended Squitter  Name: Airborne Velocity
+    EW direction      : 0
+    EW velocity       : 359
+    NS direction      : 1
+    NS velocity       : 232
+    Vertical rate src : 1
+    Vertical rate sign: 1
+    Vertical rate     : 52
+
+*8dac893aea466867513c08ca05f2;
+CRC: ca05f2 (ok)
+DF 17: ADS-B message.
+  Capability     : 5 (Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne))
+  ICAO Address   : ac893a
+  Extended Squitter  Type: 29
+  Extended Squitter  Sub : 2
+  Extended Squitter  Name: Unknown
+    Unrecognized ME type: 29 subtype: 2
+
+*8da50e3ff82300030049b891986c;
+CRC: 91986c (ok)
+DF 17: ADS-B message.
+  Capability     : 5 (Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne))
+  ICAO Address   : a50e3f
+  Extended Squitter  Type: 31
+  Extended Squitter  Sub : 0
+  Extended Squitter  Name: Aircraft Operational Status Message
+    Unrecognized ME type: 31 subtype: 0
+
+*8da50e3fe1022d00000000c9c503;
+CRC: c9c503 (ok)
+DF 17: ADS-B message.
+  Capability     : 5 (Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne))
+  ICAO Address   : a50e3f
+  Extended Squitter  Type: 28
+  Extended Squitter  Sub : 1
+  Extended Squitter  Name: Extended Squitter Aircraft Status (Emergency)
+    Unrecognized ME type: 28 subtype: 1
+
+*8dac893a990d7616504c47622ded;
+CRC: 622ded (ok)
+DF 17: ADS-B message.
+  Capability     : 5 (Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne))
+  ICAO Address   : ac893a
+  Extended Squitter  Type: 19
+  Extended Squitter  Sub : 1
+  Extended Squitter  Name: Airborne Velocity
+    EW direction      : 1
+    EW velocity       : 374
+    NS direction      : 0
+    NS velocity       : 178
+    Vertical rate src : 1
+    Vertical rate sign: 0
+    Vertical rate     : 19
+
+*8dac893a58b5115715d53afb37db;
+CRC: fb37db (ok)
+DF 17: ADS-B message.
+  Capability     : 5 (Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne))
+  ICAO Address   : ac893a
+  Extended Squitter  Type: 11
+  Extended Squitter  Sub : 0
+  Extended Squitter  Name: Airborne Position (Baro Altitude)
+    F flag   : even
+    T flag   : non-UTC
+    Altitude : 35025 feet
+    Latitude : 43914 (not decoded)
+    Longitude: 120122 (not decoded)
+
+*8da50e3f23041336d3682073b5e3;
+CRC: 73b5e3 (ok)
+DF 17: ADS-B message.
+  Capability     : 5 (Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne))
+  ICAO Address   : a50e3f
+  Extended Squitter  Type: 4
+  Extended Squitter  Sub : 3
+  Extended Squitter  Name: Aircraft Identification and Category
+    Aircraft Type  : Aircraft Type A
+    Identification : AAL646  
+
+*8dac893a990d7616504c489d8da5;
+CRC: 9d8da5 (ok)
+DF 17: ADS-B message.
+  Capability     : 5 (Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne))
+  ICAO Address   : ac893a
+  Extended Squitter  Type: 19
+  Extended Squitter  Sub : 1
+  Extended Squitter  Name: Airborne Velocity
+    EW direction      : 1
+    EW velocity       : 374
+    NS direction      : 0
+    NS velocity       : 178
+    Vertical rate src : 1
+    Vertical rate sign: 0
+    Vertical rate     : 19
+
+*8da50e3f9909679d18cc2bf2e6ba;
+CRC: f2e6ba (ok)
+DF 17: ADS-B message.
+  Capability     : 5 (Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne))
+  ICAO Address   : a50e3f
+  Extended Squitter  Type: 19
+  Extended Squitter  Sub : 1
+  Extended Squitter  Name: Airborne Velocity
+    EW direction      : 0
+    EW velocity       : 359
+    NS direction      : 1
+    NS velocity       : 232
+    Vertical rate src : 1
+    Vertical rate sign: 1
+    Vertical rate     : 51
+
+*8dac893a58b5150d2a49e4c21da3;
+CRC: c21da3 (ok)
+DF 17: ADS-B message.
+  Capability     : 5 (Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne))
+  ICAO Address   : ac893a
+  Extended Squitter  Type: 11
+  Extended Squitter  Sub : 0
+  Extended Squitter  Name: Airborne Position (Baro Altitude)
+    F flag   : odd
+    T flag   : non-UTC
+    Altitude : 35025 feet
+    Latitude : 34453 (not decoded)
+    Longitude: 18916 (not decoded)
+
+*8dac893a58b5150d3849d5fa2450;
+CRC: fa2450 (ok)
+DF 17: ADS-B message.
+  Capability     : 5 (Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne))
+  ICAO Address   : ac893a
+  Extended Squitter  Type: 11
+  Extended Squitter  Sub : 0
+  Extended Squitter  Name: Airborne Position (Baro Altitude)
+    F flag   : odd
+    T flag   : non-UTC
+    Altitude : 35025 feet
+    Latitude : 34460 (not decoded)
+    Longitude: 18901 (not decoded)
+
+*5dac893a145021;
+CRC: 145021 (ok)
+DF 11: All Call Reply.
+  Capability  : Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne)
+  ICAO Address: ac893a
+
+*5da50e3f5bdaf3;
+CRC: 5bdaf3 (ok)
+DF 11: All Call Reply.
+  Capability  : Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne)
+  ICAO Address: a50e3f
+
+*8dac893a990d7516504c489892f7;
+CRC: 9892f7 (ok)
+DF 17: ADS-B message.
+  Capability     : 5 (Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne))
+  ICAO Address   : ac893a
+  Extended Squitter  Type: 19
+  Extended Squitter  Sub : 1
+  Extended Squitter  Name: Airborne Velocity
+    EW direction      : 1
+    EW velocity       : 373
+    NS direction      : 0
+    NS velocity       : 178
+    Vertical rate src : 1
+    Vertical rate sign: 0
+    Vertical rate     : 19
+
+*8da50e3f9909679d18c42b828aba;
+CRC: 828aba (ok)
+DF 17: ADS-B message.
+  Capability     : 5 (Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne))
+  ICAO Address   : a50e3f
+  Extended Squitter  Type: 19
+  Extended Squitter  Sub : 1
+  Extended Squitter  Name: Airborne Velocity
+    EW direction      : 0
+    EW velocity       : 359
+    NS direction      : 1
+    NS velocity       : 232
+    Vertical rate src : 1
+    Vertical rate sign: 1
+    Vertical rate     : 49
+
+*02e18d10650772;
+CRC: 650772 (ok)
+DF 0: Short Air-Air Surveillance.
+  Altitude       : 19800 feet
+  ICAO Address   : a50e3f
+
+*8da50e3f5869017c91fad9685bb4;
+CRC: 685bb4 (ok)
+DF 17: ADS-B message.
+  Capability     : 5 (Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne))
+  ICAO Address   : a50e3f
+  Extended Squitter  Type: 11
+  Extended Squitter  Sub : 0
+  Extended Squitter  Name: Airborne Position (Baro Altitude)
+    F flag   : even
+    T flag   : non-UTC
+    Altitude : 19800 feet
+    Latitude : 48712 (not decoded)
+    Longitude: 129753 (not decoded)
+
+*8dac893a23041332d74c60a42116;
+CRC: a42116 (ok)
+DF 17: ADS-B message.
+  Capability     : 5 (Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne))
+  ICAO Address   : ac893a
+  Extended Squitter  Type: 4
+  Extended Squitter  Sub : 3
+  Extended Squitter  Name: Aircraft Identification and Category
+    Aircraft Type  : Aircraft Type A
+    Identification : AAL2541 
+
+*8da50e3fea07e858013c08a39798;
+CRC: a39798 (ok)
+DF 17: ADS-B message.
+  Capability     : 5 (Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne))
+  ICAO Address   : a50e3f
+ *8da2f6b39990d7ad38803855425c;
+CRC: 55425c (ok)
+DF 17: ADS-B message.
+  Capability     : 5 (Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne))
+  ICAO Address   : a2f6b3
+  Extended Squitter  Type: 19
+  Extended Squitter  Sub : 1
+  Extended Squitter  Name: Airborne Velocity
+    EW direction      : 0
+    EW velocity       : 215
+    NS direction      : 1
+    NS velocity       : 361
+    Vertical rate src : 1
+    Vertical rate sign: 1
+    Vertical rate     : 32
+
+*5da2f6b356d191;
+CRC: 56d191 (ok)
+Single bit error fixed, bit 55
+DF 11: All Call Reply.
+  Capability  : Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne)
+  ICAO Address: a2f6b3
+
+*8da2f6b358854186d3e904596ad4;
+CRC: 596ad4 (ok)
+DF 17: ADS-B message.
+  Capability     : 5 (Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne))
+  ICAO Address   : a2f6b3
+  Extended Squitter  Type: 11
+  Extended Squitter  Sub : 0
+  Extended Squitter  Name: Airborne Position (Baro Altitude)
+    F flag   : even
+    T flag   : non-UTC
+    Altitude : 25500 feet
+    Latitude : 50025 (not decoded)
+    Longitude: 125188 (not decoded)
+
+*02e19094c34e88;
+CRC: c34e88 (ok)
+DF 0: Short Air-Air Surveillance.
+  Altitude       : 25500 feet
+  ICAO Address   : a2f6b3
+
+*5da2f6b356d191;
+CRC: 56d191 (ok)
+Single bit error fixed, bit 21
+DF 11: All Call Reply.
+  Capability  : Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne)
+  ICAO Address: a2f6b3
+
+*02e190933c9eac;
+CRC: 3c9eac (ok)
+DF 0: Short Air-Air Surveillance.
+  Altitude       : 25475 feet
+  ICAO Address   : a2f6b3
+
+*5da2f6b356d191;
+CRC: 56d191 (ok)
+Single bit error fixed, bit 54
+DF 11: All Call Reply.
+  Capability  : Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne)
+  ICAO Address: a2f6b3
+
+*5da2f6b356d191;
+CRC: 56d191 (ok)
+Single bit error fixed, bit 54
+DF 11: All Call Reply.
+  Capability  : Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne)
+  ICAO Address: a2f6b3
+
+*5da2f6b356d191;
+CRC: 56d191 (ok)
+Single bit error fixed, bit 54
+DF 11: All Call Reply.
+  Capability  : Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne)
+  ICAO Address: a2f6b3
+
+*5da2f6b356d191;
+CRC: 56d191 (ok)
+Single bit error fixed, bit 54
+DF 11: All Call Reply.
+  Capability  : Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne)
+  ICAO Address: a2f6b3
+
+*5dabca005aae6b;
+CRC: 5aae6b (ok)
+Single bit error fixed, bit 54
+DF 11: All Call Reply.
+  Capability  : Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne)
+  ICAO Address: abca00
+
+*5dabca005aae6b;
+CRC: 5aae6b (ok)
+Single bit error fixed, bit 54
+DF 11: All Call Reply.
+  Capability  : Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne)
+  ICAO Address: abca00
+
+*5dabca005aae6b;
+CRC: 5aae6b (ok)
+Single bit error fixed, bit 54
+DF 11: All Call Reply.
+  Capability  : Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne)
+  ICAO Address: abca00
+
+*8da2f6b39990d6ad388038564892;
+CRC: 564892 (ok)
+DF 17: ADS-B message.
+  Capability     : 5 (Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne))
+  ICAO Address   : a2f6b3
+  Extended Squitter  Type: 19
+  Extended Squitter  Sub : 1
+  Extended Squitter  Name: Airborne Velocity
+    EW direction      : 0
+    EW velocity       : 214
+    NS direction      : 1
+    NS velocity       : 361
+    Vertical rate src : 1
+    Vertical rate sign: 1
+    Vertical rate     : 32
+
+*8da2f6b35885253bc25d75deeb4c;
+CRC: deeb4c (ok)
+DF 17: ADS-B message.
+  Capability     : 5 (Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne))
+  ICAO Address   : a2f6b3
+  Extended Squitter  Type: 11
+  Extended Squitter  Sub : 0
+  Extended Squitter  Name: Airborne Position (Baro Altitude)
+    F flag   : odd
+    T flag   : non-UTC
+    Altitude : 25450 feet
+    Latitude : 40417 (not decoded)
+    Longitude: 23925 (not decoded)
+
+*02e19092c36aa5;
+CRC: c36aa5 (ok)
+DF 0: Short Air-Air Surveillance.
+  Altitude       : 25450 feet
+  ICAO Address   : a2f6b3
+
+*8da7db085859d54e8678d310947b;
+CRC: 10947b (ok)
+DF 17: ADS-B message.
+  Capability     : 5 (Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne))
+  ICAO Address   : a7db08
+  Extended Squitter  Type: 11
+  Extended Squitter  Sub : 0
+  Extended Squitter  Name: Airborne Position (Baro Altitude)
+    F flag   : odd
+    T flag   : non-UTC
+    Altitude : 16925 feet
+    Latitude : 42819 (not decoded)
+    Longitude: 30931 (not decoded)
+
+*8da7db08ea15985db95c08d6769c;
+CRC: d6769c (ok)
+DF 17: ADS-B message.
+  Capability     : 5 (Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne))
+  ICAO Address   : a7db08
+  Extended Squitter  Type: 29
+  Extended Squitter  Sub : 2
+  Extended Squitter  Name: Unknown
+    Unrecognized ME type: 29 subtype: 2
+
+*8dabca005885754cea5498291071;
+CRC: 291071 (ok)
+DF 17: ADS-B message.
+  Capability     : 5 (Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne))
+  ICAO Address   : abca00
+  Extended Squitter  Type: 11
+  Extended Squitter  Sub : 0
+  Extended Squitter  Name: Airborne Position (Baro Altitude)
+    F flag   : odd
+    T flag   : non-UTC
+    Altitude : 25575 feet
+    Latitude : 42613 (not decoded)
+    Longitude: 21656 (not decoded)
+
+*8da7db089920d0a9d87825bcc854;
+CRC: bcc854 (ok)
+DF 17: ADS-B message.
+  Capability     : 5 (Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne))
+  ICAO Address   : a7db08
+  Extended Squitter  Type: 19
+  Extended Squitter  Sub : 1
+  Extended Squitter  Name: Airborne Velocity
+    EW direction      : 0
+    EW velocity       : 208
+    NS direction      : 1
+    NS velocity       : 334
+    Vertical rate src : 1
+    Vertical rate sign: 1
+    Vertical rate     : 30
+
+*02e19097359a29;
+CRC: 359a29 (ok)
+DF 0: Short Air-Air Surveillance.
+  Altitude       : 25575 feet
+  ICAO Address   : abca00
+
+*02e19092c36aa5;
+CRC: c36aa5 (ok)
+DF 0: Short Air-Air Surveillance.
+  Altitude       : 25450 feet
+  ICAO Address   : a2f6b3
+
+*8da2f6b35885153b8a5d856ee0fe;
+CRC: 6ee0fe (ok)
+DF 17: ADS-B message.
+  Capability     : 5 (Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne))
+  ICAO Address   : a2f6b3
+  Extended Squitter  Type: 11
+  Extended Squitter  Sub : 0
+  Extended Squitter  Name: Airborne Position (Baro Altitude)
+    F flag   : odd
+    T flag   : non-UTC
+    Altitude : 25425 feet
+    Latitude : 40389 (not decoded)
+    Longitude: 23941 (not decoded)
+
+*200010913a5afd;
+CRC: 3a5afd (ok)
+DF 4: Surveillance, Altitude Reply.
+  Flight Status  : Normal, Airborne
+  DR             : 0
+  UM             : 0
+  Altitude       : 25425 feet
+  ICAO Address   : a2f6b3
+
+*02e190913c82b7;
+CRC: 3c82b7 (ok)
+DF 0: Short Air-Air Surveillance.
+  Altitude       : 25425 feet
+  ICAO Address   : a2f6b3
+
+*8da2f6b3ea0ec860015f880b6ebb;
+CRC: 0b6ebb (ok)
+Single bit error fixed, bit 46
+DF 17: ADS-B message.
+  Capability     : 5 (Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne))
+  ICAO Address   : a2f6b3
+  Extended Squitter  Type: 29
+  Extended Squitter  Sub : 2
+  Extended Squitter  Name: Unknown
+    Unrecognized ME type: 29 subtype: 2
+
+*02e19095358632;
+CRC: 358632 (ok)
+DF 0: Short Air-Air Surveillance.
+  Altitude       : 25525 feet
+  ICAO Address   : abca00
+
+*8da2f6b39990d6ad387c384516ad;
+CRC: 4516ad (ok)
+DF 17: ADS-B message.
+  Capability     : 5 (Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne))
+  ICAO Address   : a2f6b3
+  Extended Squitter  Type: 19
+  Extended Squitter  Sub : 1
+  Extended Squitter  Name: Airborne Velocity
+    EW direction      : 0
+    EW velocity       : 214
+    NS direction      : 1
+    NS velocity       : 361
+    Vertical rate src : 1
+    Vertical rate sign: 1
+    Vertical rate     : 31
+
+*02e19094ca723b;
+CRC: ca723b (ok)
+DF 0: Short Air-Air Surveillance.
+  Altitude       : 25500 feet
+  ICAO Address   : abca00
+
+*8dabca005885419781e048452613;
+CRC: 452613 (ok)
+DF 17: ADS-B message.
+  Capability     : 5 (Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne))
+  ICAO Address   : abca00
+  Extended Squitter  Type: 11
+  Extended Squitter  Sub : 0
+  Extended Squitter  Name: Airborne Position (Baro Altitude)
+    F flag   : even
+    T flag   : non-UTC
+    Altitude : 25500 feet
+    Latitude : 52160 (not decoded)
+    Longitude: 122952 (not decoded)
+
+*02e1903f3a1186;
+CRC: 3a1186 (ok)
+DF 0: Short Air-Air Surveillance.
+  Altitude       : 25375 feet
+  ICAO Address   : a2f6b3
+
+*8da2f6b39990d6ad387c384516ad;
+CRC: 4516ad (ok)
+DF 17: ADS-B message.
+  Capability     : 5 (Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne))
+  ICAO Address   : a2f6b3
+  Extended Squitter  Type: 19
+  Extended Squitter  Sub : 1
+  Extended Squitter  Name: Airborne Velocity
+    EW direction      : 0
+    EW velocity       : 214
+    NS direction      : 1
+    NS velocity       : 361
+    Vertical rate src : 1
+    Vertical rate sign: 1
+    Vertical rate     : 31
+
+*5da2f6b356d191;
+CRC: 56d191 (ok)
+Single bit error fixed, bit 53
+DF 11: All Call Reply.
+  Capability  : Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne)
+  ICAO Address: a2f6b3
+
+*5dabca005aae6b;
+CRC: 5aae6b (ok)
+Single bit error fixed, bit 53
+DF 11: All Call Reply.
+  Capability  : Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne)
+  ICAO Address: abca00
+
+*02e1903ec5e58f;
+CRC: c5e58f (ok)
+DF 0: Short Air-Air Surveillance.
+  Altitude       : 25350 feet
+  ICAO Address   : a2f6b3
+
+*8dabca00ea07e8659b3c08e1a96b;
+CRC: e1a96b (ok)
+DF 17: ADS-B message.
+  Capability     : 5 (Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne))
+  ICAO Address   : abca00
+  Extended Squitter  Type: 29
+  Extended Squitter  Sub : 2
+  Extended Squitter  Name: Unknown
+    Unrecognized ME type: 29 subtype: 2
+
+*02e1909335a21f;
+CRC: 35a21f (ok)
+DF 0: Short Air-Air Surveillance.
+  Altitude       : 25475 feet
+  ICAO Address   : abca00
+
+*02e1903ec5e58f;
+CRC: c5e58f (ok)
+DF 0: Short Air-Air Surveillance.
+  Altitude       : 25350 feet
+  ICAO Address   : a2f6b3
+
+*5dabca005aae6b;
+CRC: 5aae6b (ok)
+Single bit error fixed, bit 55
+DF 11: All Call Reply.
+  Capability  : Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne)
+  ICAO Address: abca00
+
+*8da2f6b35883e53ac05dbf6cbfb4;
+CRC: 6cbfb4 (ok)
+DF 17: ADS-B message.
+  Capability     : 5 (Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne))
+  ICAO Address   : a2f6b3
+  Extended Squitter  Type: 11
+  Extended Squitter  Sub : 0
+  Extended Squitter  Name: Airborne Position (Baro Altitude)
+    F flag   : odd
+    T flag   : non-UTC
+    Altitude : 25350 feet
+    Latitude : 40288 (not decoded)
+    Longitude: 23999 (not decoded)
+
+*8da2f6b39990d6ad387c384516ad;
+CRC: 4516ad (ok)
+DF 17: ADS-B message.
+  Capability     : 5 (Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne))
+  ICAO Address   : a2f6b3
+  Extended Squitter  Type: 19
+  Extended Squitter  Sub : 1
+  Extended Squitter  Name: Airborne Velocity
+    EW direction      : 0
+    EW velocity       : 214
+    NS direction      : 1
+    NS velocity       : 361
+    Vertical rate src : 1
+    Vertical rate sign: 1
+    Vertical rate     : 31
+
+*02e1903d3a0d9d;
+CRC: 3a0d9d (ok)
+DF 0: Short Air-Air Surveillance.
+  Altitude       : 25325 feet
+  ICAO Address   : a2f6b3
+
+*02e1909135be04;
+CRC: 35be04 (ok)
+DF 0: Short Air-Air Surveillance.
+  Altitude       : 25425 feet
+  ICAO Address   : abca00
+
+*8dabca0058851196f9e0851b9fb0;
+CRC: 1b9fb0 (ok)
+DF 17: ADS-B message.
+  Capability     : 5 (Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne))
+  ICAO Address   : abca00
+  Extended Squitter  Type: 11
+  Extended Squitter  Sub : 0
+  Extended Squitter  Name: Airborne Position (Baro Altitude)
+    F flag   : even
+    T flag   : non-UTC
+    Altitude : 25425 feet
+    Latitude : 52092 (not decoded)
+    Longitude: 123013 (not decoded)
+
+*5da2f6b356d191;
+CRC: 56d191 (ok)
+Single bit error fixed, bit 54
+DF 11: All Call Reply.
+  Capability  : Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne)
+  ICAO Address: a2f6b3
+
+*5da2f6b356d191;
+CRC: 56d191 (ok)
+Single bit error fixed, bit 54
+DF 11: All Call Reply.
+  Capability  : Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne)
+  ICAO Address: a2f6b3
+
+*5da2f6b356d191;
+CRC: 56d191 (ok)
+Single bit error fixed, bit 54
+DF 11: All Call Reply.
+  Capability  : Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne)
+  ICAO Address: a2f6b3
+
+*5da2f6b356d191;
+CRC: 56d191 (ok)
+Single bit error fixed, bit 54
+DF 11: All Call Reply.
+  Capability  : Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne)
+  ICAO Address: a2f6b3
+
+*5dabca005aae6b;
+CRC: 5aae6b (ok)
+Single bit error fixed, bit 54
+DF 11: All Call Reply.
+  Capability  : Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne)
+  ICAO Address: abca00
+
+*5dabca005aae6b;
+CRC: 5aae6b (ok)
+Single bit error fixed, bit 54
+DF 11: All Call Reply.
+  Capability  : Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne)
+  ICAO Address: abca00
+
+*5dabca005aae6b;
+CRC: 5aae6b (ok)
+Single bit error fixed, bit 54
+DF 11: All Call Reply.
+  Capability  : Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne)
+  ICAO Address: abca00
+
+*02e1903d3a0d9d;
+CRC: 3a0d9d (ok)
+DF 0: Short Air-Air Surveillance.
+  Altitude       : 25325 feet
+  ICAO Address   : a2f6b3
+
+*8dabca00990924a818a837ef72a4;
+CRC: ef72a4 (ok)
+DF 17: ADS-B message.
+  Capability     : 5 (Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne))
+  ICAO Address   : abca00
+  Extended Squitter  Type: 19
+  Extended Squitter  Sub : 1
+  Extended Squitter  Name: Airborne Velocity
+    EW direction      : 0
+    EW velocity       : 292
+    NS direction      : 1
+    NS velocity       : 320
+    Vertical rate src : 1
+    Vertical rate sign: 1
+    Vertical rate     : 42
+
+*02e610901277ee;
+CRC: 1277ee (ok)
+DF 0: Short Air-Air Surveillance.
+  Altitude       : 25400 feet
+  ICAO Address   : abca00
+
+*02e610901277ee;
+CRC: 1277ee (ok)
+DF 0: Short Air-Air Surveillance.
+  Altitude       : 25400 feet
+  ICAO Address   : abca00
+
+*8da2f6b35883c53a685dd9ce5a05;
+CRC: ce5a05 (ok)
+DF 17: ADS-B message.
+  Capability     : 5 (Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne))
+  ICAO Address   : a2f6b3
+  Extended Squitter  Type: 11
+  Extended Squitter  Sub : 0
+  Extended Squitter  Name: Airborne Position (Baro Altitude)
+    F flag   : odd
+    T flag   : non-UTC
+    Altitude : 25300 feet
+    Latitude : 40244 (not decoded)
+    Longitude: 24025 (not decoded)
+
+*02e1903f332d35;
+CRC: 332d35 (ok)
+DF 0: Short Air-Air Surveillance.
+  Altitude       : 25375 feet
+  ICAO Address   : abca00
+
+*5da2f6b356d191;
+CRC: 56d191 (ok)
+DF 11: All Call Reply.
+  Capability  : Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne)
+  ICAO Address: a2f6b3
+
+*8dabca00990924a818ac37d744a4;
+CRC: d744a4 (ok)
+DF 17: ADS-B message.
+  Capability     : 5 (Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne))
+  ICAO Address   : abca00
+  Extended Squitter  Type: 19
+  Extended Squitter  Sub : 1
+  Extended Squitter  Name: Airborne Velocity
+    EW direction      : 0
+    EW velocity       : 292
+    NS direction      : 1
+    NS velocity       : 320
+    Vertical rate src : 1
+    Vertical rate sign: 1
+    Vertical rate     : 43
+
+*8dabca0023041331cb7de0da0a5c;
+CRC: da0a5c (ok)
+DF 17: ADS-B message.
+  Capability     : 5 (Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne))
+  ICAO Address   : abca00
+  Extended Squitter  Type: 4
+  Extended Squitter  Sub : 3
+  Extended Squitter  Name: Aircraft Identification and Category
+    Aircraft Type  : Aircraft Type A
+    Identification : AAL1277 
+
+*02e1903d33312e;
+CRC: 33312e (ok)
+DF 0: Short Air-Air Surveillance.
+  Altitude       : 25325 feet
+  ICAO Address   : abca00
+
+*8dabca005883d19671e0c11a6abd;
+CRC: 1a6abd (ok)
+DF 17: ADS-B message.
+  Capability     : 5 (Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne))
+  ICAO Address   : abca00
+  Extended Squitter  Type: 11
+  Extended Squitter  Sub : 0
+  Extended Squitter  Name: Airborne Position (Baro Altitude)
+    F flag   : even
+    T flag   : non-UTC
+    Altitude : 25325 feet
+    Latitude : 52024 (not decoded)
+    Longitude: 123073 (not decoded)
+
+*02e1903d33312e;
+CRC: 33312e (ok)
+DF 0: Short Air-Air Surveillance.
+  Altitude       : 25325 feet
+  ICAO Address   : abca00
+
+*02e1903cccc527;
+CRC: ccc527 (ok)
+DF 0: Short Air-Air Surveillance.
+  Altitude       : 25300 feet
+  ICAO Address   : abca00
+
+*02e6103c14f8c4;
+CRC: 14f8c4 (ok)
+DF 0: Short Air-Air Surveillance.
+  Altitude       : 25300 feet
+  ICAO Address   : abca00
+
+*02e1903cccc527;
+CRC: ccc527 (ok)
+DF 0: Short Air-Air Surveillance.
+  Altitude       : 25300 feet
+  ICAO Address   : abca00
+
+*8dabca00e1160f0000000033f553;
+CRC: 33f553 (ok)
+DF 17: ADS-B message.
+  Capability     : 5 (Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne))
+  ICAO Address   : abca00
+  Extended Squitter  Type: 28
+  Extended Squitter  Sub : 1
+  Extended Squitter  Name: Extended Squitter Aircraft Status (Emergency)
+    Unrecognized ME type: 28 subtype: 1
+
+*5dabca005aae6b;
+CRC: 5aae6b (ok)
+Single bit error fixed, bit 53
+DF 11: All Call Reply.
+  Capability  : Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne)
+  ICAO Address: abca00
+
+*5dabca005aae6b;
+CRC: 5aae6b (ok)
+Single bit error fixed, bit 53
+DF 11: All Call Reply.
+  Capability  : Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne)
+  ICAO Address: abca00
+
+*8da2f6b3588381844de9c0f9de29;
+CRC: f9de29 (ok)
+DF 17: ADS-B message.
+  Capability     : 5 (Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne))
+  ICAO Address   : a2f6b3
+  Extended Squitter  Type: 11
+  Extended Squitter  Sub : 0
+  Extended Squitter  Name: Airborne Position (Baro Altitude)
+    F flag   : even
+    T flag   : non-UTC
+    Altitude : 25200 feet
+    Latitude : 49702 (not decoded)
+    Longitude: 125376 (not decoded)
+
+*5dabca005aae6b;
+CRC: 5aae6b (ok)
+Single bit error fixed, bit 55
+DF 11: All Call Reply.
+  Capability  : Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne)
+  ICAO Address: abca00
+
+*5dabca005aae6b;
+CRC: 5aae6b (ok)
+Single bit error fixed, bit 55
+DF 11: All Call Reply.
+  Capability  : Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne)
+  ICAO Address: abca00
+
+*5dabca005aae6b;
+CRC: 5aae6b (ok)
+Single bit error fixed, bit 55
+DF 11: All Call Reply.
+  Capability  : Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne)
+  ICAO Address: abca00
+
+*8dabca005883a54aee557ba4ab03;
+CRC: a4ab03 (ok)
+DF 17: ADS-B message.
+  Capability     : 5 (Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne))
+  ICAO Address   : abca00
+  Extended Squitter  Type: 11
+  Extended Squitter  Sub : 0
+  Extended Squitter  Name: Airborne Position (Baro Altitude)
+    F flag   : odd
+    T flag   : non-UTC
+    Altitude : 25250 feet
+    Latitude : 42359 (not decoded)
+    Longitude: 21883 (not decoded)
+
+*02e19038c5c1a2;
+CRC: c5c1a2 (ok)
+DF 0: Short Air-Air Surveillance.
+  Altitude       : 25200 feet
+  ICAO Address   : a2f6b3
+
+*02e19038c5c1a2;
+CRC: c5c1a2 (ok)
+DF 0: Short Air-Air Surveillance.
+  Altitude       : 25200 feet
+  ICAO Address   : a2f6b3
+
+*8dabca00990923a7f8b037209e30;
+CRC: 209e30 (ok)
+DF 17: ADS-B message.
+  Capability     : 5 (Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne))
+  ICAO Address   : abca00
+  Extended Squitter  Type: 19
+  Extended Squitter  Sub : 1
+  Extended Squitter  Name: Airborne Velocity
+    EW direction      : 0
+    EW velocity       : 291
+    NS direction      : 1
+    NS velocity       : 319
+    Vertical rate src : 1
+    Vertical rate sign: 1
+    Vertical rate     : 44
+
+*02e61039eb34fb;
+CRC: eb34fb (ok)
+DF 0: Short Air-Air Surveillance.
+  Altitude       : 25225 feet
+  ICAO Address   : abca00
+
+*8da2f6b3ea250860015f88a14660;
+CRC: a14660 (ok)
+DF 17: ADS-B message.
+  Capability     : 5 (Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne))
+  ICAO Address   : a2f6b3
+  Extended Squitter  Type: 29
+  Extended Squitter  Sub : 2
+  Extended Squitter  Name: Unknown
+    Unrecognized ME type: 29 subtype: 2
+
+*8da2f6b3588375394a5e2dd0650c;
+CRC: d0650c (ok)
+DF 17: ADS-B message.
+  Capability     : 5 (Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne))
+  ICAO Address   : a2f6b3
+  Extended Squitter  Type: 11
+  Extended Squitter  Sub : 0
+  Extended Squitter  Name: Airborne Position (Baro Altitude)
+    F flag   : odd
+    T flag   : non-UTC
+    Altitude : 25175 feet
+    Latitude : 40101 (not decoded)
+    Longitude: 24109 (not decoded)
+
+*02e19038ccfd11;
+CRC: ccfd11 (ok)
+DF 0: Short Air-Air Surveillance.
+  Altitude       : 25200 feet
+  ICAO Address   : abca00
+
+*02e19037335d59;
+CRC: 335d59 (ok)
+DF 0: Short Air-Air Surveillance.
+  Altitude       : 25175 feet
+  ICAO Address   : abca00
+
+*8dabca00990923a7d8b03765e219;
+CRC: 65e219 (ok)
+DF 17: ADS-B message.
+  Capability     : 5 (Level 2+3+4 (DF0,4,5,11,20,21,24,code7 - is on airborne))
+  ICAO Address   : abca00
+  Extended Squitter  Type: 19
+  Extended Squitter  Sub : 1
+  Extended Squitter  Name: Airborne Velocity
+    EW direction      : 0
+    EW v

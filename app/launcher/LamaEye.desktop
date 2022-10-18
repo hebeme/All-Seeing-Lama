@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=lama
+Icon=/home/monitor/app/launcher-icon.png
+Categories=Application;
+Exec=cd ~/app && ./app.sh
+Terminal=true
+Name[en]=All Seeing Lama
+Name[en_US]=All Seeing Lama
