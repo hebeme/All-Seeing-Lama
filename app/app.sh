@@ -24,7 +24,7 @@ TPMS () {
 
 		BLACK_LIST=$(zenity --entry --text='Enter TPMS ID.')
 		
-		FREQ_2=$(zenity --entry --text="Select Frequency In Hz.")
+		FREQ_2=$(zenity --entry --text="Select Frequency In Hz." --entry-text='-f 315e6')
 
 		zenity --info --no-wrap --text='Set decibels like:   -0.5'
 		
@@ -64,7 +64,7 @@ TPMS () {
 	TPMS_LIVEMON () {
 		
 		FREQ_1=$(zenity --entry --text='Select Frequency In Hz.' --entry-text='-f 315e6')
-		LEVEL_2=$(zenity --entry --text='Enter minimum level to detect in db.' --entry-text='-Y minlevel=')
+		LEVEL_2=$(zenity --entry --text='Enter minimum level to detect in db.' --entry-text='-Y minlevel=-0.5')
 		rtl_433 -v -M level -C si -R 89 -R 90 -R 93 -R 82 -R 59 -R 60 -R 88 -R 95 -R 110 -R 123 -R 156 -R 168 -R 64 -R 93 $FREQ_1 $LEVEL_2
 		
 		
@@ -72,7 +72,7 @@ TPMS () {
 				
 	TPMS_REC () {
 		
-		FREQ_2=$(zenity --entry --text='Select Frequency In Hz.' --entry-text='-f ')
+		FREQ_2=$(zenity --entry --text='Select Frequency In Hz.' --entry-text='-f 315e6')
 		rtl_433 -v -M level -C si -R 89 -R 90 -R 93 -R 82 -R 59 -R 60 -R 88 -R 95 -R 110 -R 123 -R 156 -R 168 -R 64 -R 93 $FREQ_2 >> DUMP-FILES/TPMS-DUMP.txt
 		
 		
@@ -83,9 +83,11 @@ TPMS () {
 	############################-SELECT MODE-################################
 		
 		
-	zenity --info --text='            1 Live Moniter.    2 Set Alerts.    3 Record TPMS data to file.          ' --no-wrap
+	#zenity --info --text='            1 Live Moniter.    2 Set Alerts.    3 Record TPMS data to file.          ' --no-wrap
 
-	OPT_SELECT_TPMS=$(zenity --entry --text='Select an option. ')
+	#OPT_SELECT_TPMS=$(zenity --entry --text='Select an option. ')
+	
+	OPT_SELECT_TPMS=$(zenity --list --title='Chose An Option' --column='Option' --column='Name' 1 Live-Mon 2 Alert 3 Record) 
 	
 	if [ $OPT_SELECT_TPMS = '1' ];
 	then
@@ -158,9 +160,9 @@ PAGER () {
 	############################-SELECT MODE-################################
 		
 		
-	zenity --info --text='         1 Live Intercept.    2 Search DB.    3 Record Pager data to file.          ' --no-wrap
+	#zenity --info --text='         1 Live Intercept.    2 Search DB.    3 Record Pager data to file.          ' --no-wrap
 
-	OPT_SELECT_PAGER=$(zenity --entry --text='Select an option. ')
+	OPT_SELECT_PAGER=$(zenity --list --title='Chose An Option' --column='Option' --column='Name' 1 Live-Monitor 2 Search-DB 3 Record) 
 	
 	if [ $OPT_SELECT_PAGER = '1' ];
 	then
@@ -213,9 +215,11 @@ ADS_B () {
 		
 		
 	
-	zenity --info --text='            1 Live ADS-B Moniter.    2 Flight Radar Online.    3 Record ADS-B data to file.             ' --no-wrap
+	#zenity --info --text='            1 Live ADS-B Moniter.    2 Flight Radar Online.    3 Record ADS-B data to file.             ' --no-wrap
 
-	OPT_SELECT_TPMS=$(zenity --entry --text='Select an option. ')
+	#OPT_SELECT_TPMS=$(zenity --entry --text='Select an option. ')
+	
+	OPT_SELECT_TPMS=$(zenity --list --title='Chose An Option' --column='Option' --column='Name' 1 LiveMon 2 Online 3 Record)
 	
 	if [ $OPT_SELECT_TPMS = '1' ];
 	then
@@ -264,7 +268,10 @@ REFRENCE () {
 #############-MAIN MENU-#############
 
 
-MAIN_SELECT=$(zenity --entry --text='   Chose An Option:   TPMS,   PAGER,   TRUNKED,   ADSB,   REFRENCE.   ')
+#MAIN_SELECT=$(zenity --entry --text='   Chose An Option:   TPMS,   PAGER,   TRUNKED,   ADSB,   REFRENCE.   ')
+
+MAIN_SELECT=$(zenity --list --radiolist --title="Choose An Option" --column="Choose" --column="Description" 1 Tpms 2 Pager 3 ADSB 4 Trunked 5 Refrence)
+
 
 if [ ${MAIN_SELECT^^} = 'TPMS' ];
 then
