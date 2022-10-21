@@ -126,16 +126,17 @@ PAGER () {
 		
 		NAME=$(whoami)
 		
-		SEARCH_FILE=$(zenity --file-selection --filename='/home/monitor/app/DUMP-FILES/PAGER-DUMP.txt' --text='Select dump file')
+		SEARCH_FILE=DUMP-FILES/PAGER-DUMP.txt #$(zenity --file-selection --filename='/home/monitor/app/DUMP-FILES/PAGER-DUMP.txt' --text='Select dump file')
 		
 		SEARCH_TERM=$(zenity --entry --text='Enter search term. ' )
-		CONTEXT_B=$(zenity --entry --text='Enter context lines before' )
-		CONTEXT_A=$(zenity --entry --text='Enter context lines after' )
+		CONTEXT_B=$(zenity --entry --text='Enter context lines before' --entry-text='0')
+		CONTEXT_A=$(zenity --entry --text='Enter context lines after' --entry-text='0')
 
 		egrep -i -B $CONTEXT_B -A $CONTEXT_A $SEARCH_TERM $SEARCH_FILE | highlight magenta $SEARCH_TERM |highlight green '\[.........\]'| highlight green '\[..........\]' | highlight cyan 'FLEX' | highlight blue 'ALN' | highlight blue 'NUM ' | highlight blue 'TON' | highlight blue '-' | highlight blue ':' | highlight red 'Msg' | highlight red 'Subj' | highlight yellow 'SMS' | highlight yellow 'google' | highlight yellow 'Google' | highlight  magenta 'UNK' | highlight blue '[/]' | highlight blue '[.]' | highlight blue '_' > temp-dump.txt
 		 
 		
 		terminator -e 'cat temp-dump.txt && sleep 99999999999999'
+		terminator -e 'rm temp-dump.txt'
 		
 		PAGER_SEARCH
 		
@@ -177,7 +178,7 @@ PAGER () {
 		
 	#zenity --info --text='         1 Live Intercept.    2 Search DB.    3 Record Pager data to file.          ' --no-wrap
 
-	OPT_SELECT_PAGER=$(zenity --list --title='Chose An Option' --column='Option' --column='Name' 1 'Live Monitor' 2 'Search DB' 3 'Record' 4 'Open Folder') 
+	OPT_SELECT_PAGER=$(zenity --list --title='Chose An Option' --column='Option' --column='Name' 1 'Live Monitor' 2 'Search Database' 3 'Record To Dump File' 4 'Open Folder') 
 	
 	if [ $OPT_SELECT_PAGER = '1' ];
 	then
@@ -238,7 +239,7 @@ ADS_B () {
 
 	#OPT_SELECT_TPMS=$(zenity --entry --text='Select an option. ')
 	
-	OPT_SELECT_TPMS=$(zenity --list --title='Chose An Option' --column='Option' --column='Name' 1 LiveMon 2 Online 3 Record)
+	OPT_SELECT_TPMS=$(zenity --list --title='Chose An Option' --column='Option' --column='Name' 1 'Live Moniter' 2 'Flight Radar Online' 3 'Record To File')
 	
 	if [ $OPT_SELECT_TPMS = '1' ];
 	then
@@ -289,7 +290,7 @@ REFRENCE () {
 
 #MAIN_SELECT=$(zenity --entry --text='   Chose An Option:   TPMS,   PAGER,   TRUNKED,   ADSB,   REFRENCE.   ')
 
-MAIN_SELECT=$(zenity --list --radiolist --title="Choose An Option" --column="Choose" --column="Description" 1 Tpms 2 Pager 3 ADSB 4 Trunked 5 Refrence)
+MAIN_SELECT=$(zenity --list --radiolist --title="Choose An Option" --column="Choose" --column="Description" 1 'Tpms' 2 'Pagers' 3 'ADSB' 4 'Trunked' 5 'Refrence')
 
 
 if [ ${MAIN_SELECT^^} = 'TPMS' ];
@@ -304,7 +305,7 @@ then
 		pwd
 	fi
 	
-elif [ ${MAIN_SELECT^^} = 'PAGER' ];
+elif [ ${MAIN_SELECT^^} = 'PAGERS' ];
 then
 	PAGER
 	
