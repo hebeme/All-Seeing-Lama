@@ -18,18 +18,15 @@ TPMS () {
 
 		###################-GET INPUT-######################
 
-		DUMP_FILE=$(zenity --file-selection --filename=$PWD)
+		#DUMP_FILE=$(zenity --file-selection --filename=$PWD)
 
-		zenity --text-info --filename=$DUMP_FILE --editable | egrep 'time|model|id |ID|pressure|Pressure' | highlight blue 'id' | highlight blue 'ID' | highlight yellow 'time' | highlight red 'model' | highlight green 'pressure' | highlight green 'Pressure'
+		#zenity --text-info --filename=$DUMP_FILE --editable | egrep 'time|model|id |ID|pressure|Pressure' | highlight blue 'id' | highlight blue 'ID' | highlight yellow 'time' | highlight red 'model' | highlight green 'pressure' | highlight green 'Pressure'
 
 		BLACK_LIST=$(zenity --entry --text='Enter TPMS ID.')
 		
-		FREQ_2=$(zenity --entry --text="Select Frequency In Hz." --entry-text='-f 315e6')
-
-		zenity --info --no-wrap --text='Set decibels like:   -0.5'
+		FREQ_2=$(zenity --entry --text="Select Frequency In Hz." --entry-text='-f 315e6')		
 		
-		
-		NOISE_LEVEL=$(zenity --entry --text='Enter minimum level to detect in db.' --entry-text='-Y minlevel=')
+		NOISE_LEVEL=$(zenity --entry --text='Enter minimum level to detect in db.' --entry-text='-Y minlevel=-0.5')
 
 
 
@@ -78,16 +75,20 @@ TPMS () {
 		
 		}
 		
+	TPMS_FOLDER () {
+		
+		roxterm -d ~/app/TPMS
+		exit
 		
 		
-	############################-SELECT MODE-################################
 		
-		
-	#zenity --info --text='            1 Live Moniter.    2 Set Alerts.    3 Record TPMS data to file.          ' --no-wrap
-
-	#OPT_SELECT_TPMS=$(zenity --entry --text='Select an option. ')
+		}	
 	
-	OPT_SELECT_TPMS=$(zenity --list --title='Chose An Option' --column='Option' --column='Name' 1 Live-Mon 2 Alert 3 Record) 
+	
+	
+	############################-SELECT MODE-################################
+
+	OPT_SELECT_TPMS=$(zenity --list --title='Chose An Option' --column='Option' --column='Name' 1 'Live Moniter' 2 'Set Alerts' 3 'Record To File' 4 'Open Folder') 
 	
 	if [ $OPT_SELECT_TPMS = '1' ];
 	then
@@ -99,9 +100,16 @@ TPMS () {
 		TPMS_ALERT
 		
 		
-	else [ $OPT_SELECT_TPMS = '3' ];
+	elif [ $OPT_SELECT_TPMS = '3' ];
+	then
 	
 		TPMS_REC
+		
+	elif [ $OPT_SELECT_TPMS = '4' ];
+	then
+		TPMS_FOLDER
+		
+	
 		
 	fi
 
@@ -138,7 +146,7 @@ PAGER () {
 	PAGER_LIVEMON () {
 		
 		zenity --info --no-wrap --text='           Start gqrx and turn on UDP streaming before continuing           '
-		source ../dev-shell-essentials/dev-shell-essentials.sh
+		source dev-shell-essentials/dev-shell-essentials.sh
 		nc -l -u localhost 7355 | sox -t raw -esigned-integer -b 16 -r 48000 - -esigned-integer -b 16 -r 22050 -t raw - | multimon-ng -t raw -a FLEX -a POCSAG512 -a POCSAG1200 -a POCSAG2400 -f alpha - | highlight green '\[' | highlight green '\]' | highlight cyan 'FLEX' | highlight blue 'ALN' | highlight blue 'NUM ' | highlight blue 'TON' | highlight blue '-' | highlight blue ':' | highlight red 'Msg*' | highlight red 'Subj' | highlight yellow 'SMS' | highlight yellow 'google' | highlight yellow 'Google' | highlight  magenta 'UNK' | highlight blue '[/]' | highlight blue '[.]' | highlight blue '_'
 
 		
@@ -155,6 +163,13 @@ PAGER () {
 		
 		}
 	
+	OPEN_P_FOLDER () {
+		
+		roxterm -d ~/app/PAGER
+		exit
+		
+		}
+	
 	##################-FUNC INIT-###########################
 	
 	############################-SELECT MODE-################################
@@ -162,7 +177,7 @@ PAGER () {
 		
 	#zenity --info --text='         1 Live Intercept.    2 Search DB.    3 Record Pager data to file.          ' --no-wrap
 
-	OPT_SELECT_PAGER=$(zenity --list --title='Chose An Option' --column='Option' --column='Name' 1 Live-Monitor 2 Search-DB 3 Record) 
+	OPT_SELECT_PAGER=$(zenity --list --title='Chose An Option' --column='Option' --column='Name' 1 'Live Monitor' 2 'Search DB' 3 'Record' 4 'Open Folder') 
 	
 	if [ $OPT_SELECT_PAGER = '1' ];
 	then
@@ -174,9 +189,13 @@ PAGER () {
 		PAGER_SEARCH
 		
 		
-	else [ $OPT_SELECT_PAGER = '3' ];
-	
+	elif [ $OPT_SELECT_PAGER = '3' ];
+	then
 		PAGER_REC
+		
+	elif [ $OPT_SELECT_PAGER = '4' ];
+	then
+		OPEN_P_FOLDER
 		
 	fi
 	
