@@ -51,8 +51,6 @@ to run the script do:
 
 add ads-b alerting.
 
-add bluetooth alerting/searching
-
 Let me know if you think of any thing else :)
 
   
