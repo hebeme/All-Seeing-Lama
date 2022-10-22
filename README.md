@@ -1,5 +1,7 @@
 # All-Seeing-Lama
 
+# Its a safe assumption that anything to do with pagers is illegal, so yeah, dont do illegal stuff.
+
 Not much of this software is mine, the goal was just to make it esier to use so it can be deployed more simply.
 
 The goal is to create a large database of information and merge it to the main repo weekly.
@@ -54,4 +56,4 @@ add ads-b alerting.
 Let me know if you think of any thing else :)
 
   
-
+# I am not responsible for anything you do with this tool!
