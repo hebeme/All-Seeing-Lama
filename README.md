@@ -2,7 +2,7 @@
 
 # Its a safe assumption that anything to do with pagers is illegal, so yeah, dont do illegal stuff.
 
-Not much of this software is mine, the goal was just to make it esier to use so it can be deployed more simply.
+Not much of this software is mine, the goal was just to make it esier to use so it can be deployed simply.
 
 The goal is to create a large database of information and merge it to the main repo weekly.
 
