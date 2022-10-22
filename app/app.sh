@@ -23,7 +23,7 @@ TPMS () {
 		#zenity --text-info --filename=$DUMP_FILE --editable | egrep 'time|model|id |ID|pressure|Pressure' | highlight blue 'id' | highlight blue 'ID' | highlight yellow 'time' | highlight red 'model' | highlight green 'pressure' | highlight green 'Pressure'
 
 		BLACK_LIST=$(zenity --entry --text='Enter TPMS ID.')
-		
+
 		FREQ_2=$(zenity --entry --text="Select Frequency In Hz." --entry-text='-f 315e6')		
 		
 		NOISE_LEVEL=$(zenity --entry --text='Enter minimum level to detect in db.' --entry-text='-Y minlevel=-0.5')
@@ -44,15 +44,17 @@ TPMS () {
 			
 				##############-ALERT ACTION-#################
 				
-				echo -e '\n\-----------------------------------------------------------------------------------------------------------------------------------------\n\n' | highlight green '-'
+				echo -e '\n\-------------------------------------------------------------FOUND----------------------------------------------------------------------------\n\n' | highlight green '-'
+				espeak 'weeeeeee woo, weeeeeeee woo, weeeeeeeee woo'
 				play SOUNDS/gqrx_20221012_004616_101100000.wav
-
+				echo -e 'FOUND' $BLACK_LIST '\n\n' | highlight blue $BLACK_LIST | highlight blue 'FOUND'
 				
 			else
 				
 				#####################-DEFUALT ACTION-########################
 				
-				echo -e '\n\n----------------------------------------------------------------------------------------------------------------------------------------\n\n' | highlight red '-'
+				echo -e '\n\n-----------------------------------------------------------------NOT FOUND-----------------------------------------------------------------------\n\n' | highlight red '-'
+				echo -e $BLACK_LIST 'NOT FOUND \n\n' | highlight blue $BLACK_LIST | highlight blue 'NOT FOUND'
 			fi
 		done
 	
@@ -286,9 +288,6 @@ REFRENCE () {
 
 
 #############-MAIN MENU-#############
-
-
-#MAIN_SELECT=$(zenity --entry --text='   Chose An Option:   TPMS,   PAGER,   TRUNKED,   ADSB,   REFRENCE.   ')
 
 MAIN_SELECT=$(zenity --list --radiolist --title="Choose An Option" --column="Choose" --column="Description" 1 'Tpms' 2 'Pagers' 3 'ADSB' 4 'Trunked' 5 'Refrence')
 
