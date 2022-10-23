@@ -137,7 +137,7 @@ PAGER () {
 		egrep -i -B $CONTEXT_B -A $CONTEXT_A $SEARCH_TERM $SEARCH_FILE | highlight magenta $SEARCH_TERM |highlight green '\[.........\]'| highlight green '\[..........\]' | highlight cyan 'FLEX' | highlight blue 'ALN' | highlight blue 'NUM ' | highlight blue 'TON' | highlight blue '-' | highlight blue ':' | highlight red 'Msg' | highlight red 'Subj' | highlight yellow 'SMS' | highlight yellow 'google' | highlight yellow 'Google' | highlight  magenta 'UNK' | highlight blue '[/]' | highlight blue '[.]' | highlight blue '_' > temp-dump.txt
 		 
 		
-		terminator -e 'cat temp-dump.txt && sleep 99999999999999'
+		terminator -M -e 'cat temp-dump.txt && sleep 99999999999999'
 		terminator -e 'rm temp-dump.txt'
 		
 		PAGER_SEARCH
@@ -362,7 +362,7 @@ else
 	./app.sh
 fi
 
-#####################################
+#################-END-MAIN-MENUE-####################
 
 
 
