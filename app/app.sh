@@ -44,17 +44,17 @@ TPMS () {
 			
 				##############-ALERT ACTION-#################
 				
-				echo -e '\n\-------------------------------------------------------------FOUND----------------------------------------------------------------------------\n\n' | highlight green '-'
+				echo -e '\n\-------------------------------------------------------------FOUND----------------------------------------------------------------------------\n\n' | highlight green '-' | highlight magenta 'FOUND'
 				espeak 'weeeeeee woo, weeeeeeee woo, weeeeeeeee woo'
 				play SOUNDS/gqrx_20221012_004616_101100000.wav
-				echo -e 'FOUND' $BLACK_LIST '\n\n' | highlight blue $BLACK_LIST | highlight blue 'FOUND'
+				echo -e 'FOUND' $BLACK_LIST '\n\n' | highlight blue $BLACK_LIST | highlight magenta 'FOUND'
 				
 			else
 				
 				#####################-DEFUALT ACTION-########################
 				
-				echo -e '\n\n-----------------------------------------------------------------NOT FOUND-----------------------------------------------------------------------\n\n' | highlight red '-'
-				echo -e $BLACK_LIST 'NOT FOUND \n\n' | highlight blue $BLACK_LIST | highlight blue 'NOT FOUND'
+				echo -e '\n\n-----------------------------------------------------------------NOT FOUND-----------------------------------------------------------------------\n\n' | highlight red '-' | highlight magenta 'NOT FOUND'
+				echo -e $BLACK_LIST 'NOT FOUND \n\n' | highlight blue $BLACK_LIST | highlight magenta 'NOT FOUND'
 			fi
 		done
 	
