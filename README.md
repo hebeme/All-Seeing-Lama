@@ -35,7 +35,7 @@ Clone this repo:
 
 Enter in to it:
 
-```cd app```
+```cd All-See-Lama && cd app```
 
 make *.sh files executable with:
 
@@ -47,7 +47,7 @@ then run:
 
 to run the script do:
 
-```./app```
+```./app.sh```
 
 # To Do:
 
