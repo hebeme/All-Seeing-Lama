@@ -35,7 +35,7 @@ Clone this repo:
 
 Enter in to it:
 
-```cd All-See-Lama && cd app```
+```cd All-Seeing-Lama && mv app/ ../ && cd ../ && sudo rm -r All-Seeing-Lama/ && cd app/```
 
 make *.sh files executable with:
 
